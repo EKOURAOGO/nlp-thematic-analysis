@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 50,
+    "x": 0.7468979129878411,
+    "y": -0.6649387246764977,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Dans le cadre de le schéma départemental, ce programme développe des actions de dispositif emploi. Il s adresse à les tr..."
+  },
+  {
+    "id": 229,
+    "x": 0.7861068240069959,
+    "y": 0.6180906577919084,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Cette initiative a pour but de renforcer mal logement afin de réduire les inégalités. Elle s appuie sur quartiers priori..."
+  },
+  {
+    "id": 227,
+    "x": 0.6487237537829281,
+    "y": -0.7610239754947192,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Dans le cadre de le plan national, ce programme développe des actions de habitat dégradé. Il s adresse à les familles mo..."
+  },
+  {
+    "id": 79,
+    "x": 0.646260613431394,
+    "y": -0.7631167797442789,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de le plan national, ce programme développe des actions de cancer. Il s adresse à les personnes en situati..."
+  },
+  {
+    "id": 78,
+    "x": 0.6813723657964762,
+    "y": -0.7319369502415581,
+    "km_cluster": 5,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de le schéma départemental, ce programme développe des actions de sécurité sociale. Il s adresse à les per..."
+  },
+  {
+    "id": 18,
+    "x": 0.7779322327968137,
+    "y": 0.6283481846681536,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Cette initiative a pour but de renforcer formation professionnelle afin de réduire les inégalités. Elle s appuie sur rec..."
+  },
+  {
+    "id": 66,
+    "x": 0.7856002364886855,
+    "y": 0.6187344086350147,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Cette initiative a pour but de renforcer urgences médicales afin de réduire les inégalités. Elle s appuie sur vaccinatio..."
+  },
+  {
+    "id": 270,
+    "x": 0.7876483668002376,
+    "y": 0.6161250281208501,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Cette initiative a pour but de renforcer sport jeunesse afin de réduire les inégalités. Elle s appuie sur école inclusiv..."
+  },
+  {
+    "id": 274,
+    "x": 0.7818462955263787,
+    "y": 0.6234712264184119,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Cette initiative a pour but de renforcer égalité des chances afin de réduire les inégalités. Elle s appuie sur réussite ..."
+  },
+  {
+    "id": 49,
+    "x": 0.9435028408443399,
+    "y": -0.3313644358084615,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer dispositif emploi en faveur de les enfants issus de milieux défavorisés dans le cadre de la ..."
+  },
+  {
+    "id": 85,
+    "x": 0.8343042364498049,
+    "y": -0.5513043089273909,
+    "km_cluster": 2,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur médecine de proximité en mobilisant santé mentale. Elle bénéficiera à les personnes âgées grâce à can..."
+  },
+  {
+    "id": 133,
+    "x": 0.9037929378718577,
+    "y": -0.42797000531924717,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Le projet vise à développer énergie renouvelable en faveur de les personnes âgées dans le cadre de le projet de territoi..."
+  },
+  {
+    "id": 41,
+    "x": 0.9601000616211889,
+    "y": -0.27965670325416736,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer formation professionnelle en faveur de les bénéficiaires du RSA dans le cadre de le programm..."
+  },
+  {
+    "id": 121,
+    "x": 0.6768273102460853,
+    "y": -0.7361418287973108,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de la convention territoriale, ce programme développe des actions de économie circulaire. Il s adresse à l..."
+  },
+  {
+    "id": 112,
+    "x": 0.6913065395061032,
+    "y": -0.7225616018278972,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de isolation thermique. Il s adresse à les pers..."
+  },
+  {
+    "id": 32,
+    "x": 0.8681066592946335,
+    "y": -0.49637770708232964,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "L action porte sur alternance en mobilisant demandeurs d emploi. Elle bénéficiera à les seniors grâce à insertion et ret..."
+  },
+  {
+    "id": 203,
+    "x": 0.7157575649288934,
+    "y": -0.6983488442369337,
+    "km_cluster": 1,
+    "lda_topic": 5,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Dans le cadre de la convention territoriale, ce programme développe des actions de résidence sociale. Il s adresse à les..."
+  },
+  {
+    "id": 244,
+    "x": 0.8030660937144759,
+    "y": 0.5958899639414754,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Cette initiative a pour but de renforcer aide au logement afin de réduire les inégalités. Elle s appuie sur logement soc..."
+  },
+  {
+    "id": 212,
+    "x": 0.8143907759919243,
+    "y": -0.580316865151506,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur mal logement en mobilisant quartiers prioritaires. Elle bénéficiera à les bénéficiaires du RSA grâce ..."
+  },
+  {
+    "id": 156,
+    "x": 0.6884257886168837,
+    "y": -0.725306785827364,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de la politique régionale, ce programme développe des actions de télétravail. Il s adresse à les travaille..."
+  },
+  {
+    "id": 152,
+    "x": 0.6544916449724912,
+    "y": -0.7560692340395836,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de le plan national, ce programme développe des actions de compétences numériques. Il s adresse à les fami..."
+  },
+  {
+    "id": 296,
+    "x": 0.721125954372738,
+    "y": -0.6928039823283406,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de le plan national, ce programme développe des actions de périscolaire. Il s adresse à les jeunes de 16 à..."
+  },
+  {
+    "id": 76,
+    "x": 0.8711870050228425,
+    "y": -0.49095132373722117,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer épidémiologie en faveur de les femmes en situation de précarité dans le cadre de la conventi..."
+  },
+  {
+    "id": 19,
+    "x": 0.7687224808641957,
+    "y": 0.6395824789767119,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Cette initiative a pour but de renforcer demandeurs d emploi afin de réduire les inégalités. Elle s appuie sur dispositi..."
+  },
+  {
+    "id": 124,
+    "x": 0.8403489493819106,
+    "y": -0.5420457944424244,
+    "km_cluster": 2,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "L action porte sur décarbonation en mobilisant recyclage. Elle bénéficiera à les travailleurs peu qualifiés grâce à pest..."
+  },
+  {
+    "id": 46,
+    "x": 0.8783298120808386,
+    "y": -0.4780551654464563,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "L action porte sur insertion en mobilisant qualification. Elle bénéficiera à les bénéficiaires du RSA grâce à reconversi..."
+  },
+  {
+    "id": 65,
+    "x": 0.834836291280331,
+    "y": -0.550498289517145,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer urgences médicales en faveur de les seniors dans le cadre de la stratégie nationale. Les act..."
+  },
+  {
+    "id": 4,
+    "x": 0.9494402150883742,
+    "y": -0.3139478905374929,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer chômage longue durée en faveur de les primo-arrivants dans le cadre de le plan national. Les..."
+  },
+  {
+    "id": 255,
+    "x": 0.8585331510975968,
+    "y": -0.5127580603622249,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur lycée professionnel en mobilisant vie associative. Elle bénéficiera à les primo-arrivants grâce à sou..."
+  },
+  {
+    "id": 82,
+    "x": 0.7487593975998084,
+    "y": -0.6628418849966953,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur accès aux soins en mobilisant pathologies. Elle bénéficiera à les seniors grâce à cancer et sécurité ..."
+  },
+  {
+    "id": 134,
+    "x": 0.6558993407371589,
+    "y": -0.7548483654486909,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de biodiversité. Il s adresse à les primo-arriv..."
+  },
+  {
+    "id": 80,
+    "x": 0.8167814854966411,
+    "y": -0.5769471422495309,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur dépistage en mobilisant remboursement des soins. Elle bénéficiera à les habitants des zones rurales g..."
+  },
+  {
+    "id": 206,
+    "x": 0.7428579168095769,
+    "y": -0.6694491134009632,
+    "km_cluster": 1,
+    "lda_topic": 5,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Dans le cadre de le schéma départemental, ce programme développe des actions de habitat dégradé. Il s adresse à les enfa..."
+  },
+  {
+    "id": 183,
+    "x": 0.8179984214189906,
+    "y": -0.5752204643056776,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur accès internet en mobilisant services en ligne. Elle bénéficiera à les femmes en situation de précari..."
+  },
+  {
+    "id": 14,
+    "x": 0.7207051346595442,
+    "y": -0.6932417391324388,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Dans le cadre de la politique régionale, ce programme développe des actions de contrat aidé. Il s adresse à les femmes e..."
+  },
+  {
+    "id": 196,
+    "x": 0.8314816828657459,
+    "y": 0.5555521677203205,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Cette initiative a pour but de renforcer données personnelles afin de réduire les inégalités. Elle s appuie sur usages n..."
+  },
+  {
+    "id": 259,
+    "x": 0.7359343307889881,
+    "y": 0.6770529231649207,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Cette initiative a pour but de renforcer orientation scolaire afin de réduire les inégalités. Elle s appuie sur inégalit..."
+  },
+  {
+    "id": 87,
+    "x": 0.8841596544144836,
+    "y": -0.46718487294181626,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer déserts médicaux en faveur de les primo-arrivants dans le cadre de le projet de territoire. ..."
+  },
+  {
+    "id": 243,
+    "x": 0.8904815365048823,
+    "y": -0.455019376668625,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer HLM en faveur de les femmes en situation de précarité dans le cadre de le projet de territoi..."
+  },
+  {
+    "id": 285,
+    "x": 0.7264432166048773,
+    "y": -0.6872264932675101,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de la stratégie nationale, ce programme développe des actions de lycée professionnel. Il s adresse à les j..."
+  },
+  {
+    "id": 187,
+    "x": 0.6975443790377842,
+    "y": -0.7165415823752252,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de automatisation. Il s adresse à les adultes e..."
+  },
+  {
+    "id": 237,
+    "x": 0.8962224302434175,
+    "y": -0.44360495435531655,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer requalification urbaine en faveur de les habitants des zones rurales dans le cadre de le sch..."
+  },
+  {
+    "id": 226,
+    "x": 0.6683397882955485,
+    "y": -0.7438561200803966,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de sans-abri. Il s adresse à les personnes âgée..."
+  },
+  {
+    "id": 172,
+    "x": 0.7884332539876322,
+    "y": -0.6151203166913559,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur dématérialisation en mobilisant zones blanches. Elle bénéficiera à les seniors grâce à télétravail et..."
+  },
+  {
+    "id": 281,
+    "x": 0.9107431850076628,
+    "y": -0.4129731843135798,
+    "km_cluster": 3,
+    "lda_topic": 0,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Le projet vise à développer protection enfance en faveur de les bénéficiaires du RSA dans le cadre de le plan national. ..."
+  },
+  {
+    "id": 230,
+    "x": 0.8386629185641329,
+    "y": -0.5446508138481853,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer habitat dégradé en faveur de les seniors dans le cadre de la convention territoriale. Les ac..."
+  },
+  {
+    "id": 283,
+    "x": 0.7474333574757972,
+    "y": -0.6643367942034047,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de le projet de territoire, ce programme développe des actions de méthodes pédagogiques. Il s adresse à le..."
+  },
+  {
+    "id": 264,
+    "x": 0.6666732547822887,
+    "y": -0.7453500998577713,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de le programme européen, ce programme développe des actions de périscolaire. Il s adresse à les familles ..."
+  },
+  {
+    "id": 135,
+    "x": 0.8584512102478582,
+    "y": -0.5128952326001749,
+    "km_cluster": 2,
+    "lda_topic": 3,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "L action porte sur éolien en mobilisant eau potable. Elle bénéficiera à les personnes en situation de handicap grâce à é..."
+  },
+  {
+    "id": 93,
+    "x": 0.6185255232118799,
+    "y": -0.7857647085072414,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de la stratégie nationale, ce programme développe des actions de accès aux soins. Il s adresse à les famil..."
+  },
+  {
+    "id": 294,
+    "x": 0.8564643232021897,
+    "y": -0.5162062214675596,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur service civique en mobilisant sport jeunesse. Elle bénéficiera à les seniors grâce à parentalité et s..."
+  },
+  {
+    "id": 155,
+    "x": 0.6971158172357887,
+    "y": -0.7169585325244956,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de le schéma départemental, ce programme développe des actions de formation digitale. Il s adresse à les a..."
+  },
+  {
+    "id": 52,
+    "x": 0.6705169012154741,
+    "y": -0.7418942547185534,
+    "km_cluster": 5,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de la politique régionale, ce programme développe des actions de maladies chroniques. Il s adresse à les p..."
+  },
+  {
+    "id": 167,
+    "x": 0.7893757014076828,
+    "y": 0.6139104185686449,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Cette initiative a pour but de renforcer cybersécurité afin de réduire les inégalités. Elle s appuie sur e-administratio..."
+  },
+  {
+    "id": 272,
+    "x": 0.7081584914630917,
+    "y": -0.7060535043243665,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de le plan national, ce programme développe des actions de jeunes en difficulté. Il s adresse à les travai..."
+  },
+  {
+    "id": 164,
+    "x": 0.8777472044205799,
+    "y": -0.47912403940092274,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Le projet vise à développer outils informatiques en faveur de les adultes en reconversion dans le cadre de la stratégie ..."
+  },
+  {
+    "id": 15,
+    "x": 0.7713578265243443,
+    "y": -0.6364016840484001,
+    "km_cluster": 5,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Dans le cadre de le programme européen, ce programme développe des actions de reconversion professionnelle. Il s adresse..."
+  },
+  {
+    "id": 261,
+    "x": 0.8892690036100899,
+    "y": -0.45738456381727394,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur méthodes pédagogiques en mobilisant périscolaire. Elle bénéficiera à les bénéficiaires du RSA grâce à..."
+  },
+  {
+    "id": 214,
+    "x": 0.6820013737442169,
+    "y": -0.7313508913038945,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Dans le cadre de le schéma départemental, ce programme développe des actions de politique de la ville. Il s adresse à le..."
+  },
+  {
+    "id": 233,
+    "x": 0.8029476327579269,
+    "y": -0.5960495776765901,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur politique de la ville en mobilisant relogement. Elle bénéficiera à les habitants des zones rurales gr..."
+  },
+  {
+    "id": 45,
+    "x": 0.7861112277418473,
+    "y": 0.6180850569445969,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Cette initiative a pour but de renforcer alternance afin de réduire les inégalités. Elle s appuie sur reconversion profe..."
+  },
+  {
+    "id": 120,
+    "x": 0.8446078351765629,
+    "y": -0.5353854730550315,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "L action porte sur isolation thermique en mobilisant pesticides. Elle bénéficiera à les jeunes de 16 à 25 ans grâce à dé..."
+  },
+  {
+    "id": 130,
+    "x": 0.6731094199353258,
+    "y": -0.7395429053099821,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de le programme européen, ce programme développe des actions de énergie renouvelable. Il s adresse à les j..."
+  },
+  {
+    "id": 143,
+    "x": 0.7465170194910877,
+    "y": 0.6653663198645863,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Cette initiative a pour but de renforcer éolien afin de réduire les inégalités. Elle s appuie sur véhicules électriques ..."
+  },
+  {
+    "id": 260,
+    "x": 0.6938633060460966,
+    "y": -0.7201067368958445,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de citoyenneté. Il s adresse à les habitants de..."
+  },
+  {
+    "id": 149,
+    "x": 0.7235931019307409,
+    "y": -0.6902267908725713,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de la stratégie nationale, ce programme développe des actions de réduction des émissions. Il s adresse à l..."
+  },
+  {
+    "id": 2,
+    "x": 0.8172757065041529,
+    "y": 0.5762468390873288,
+    "km_cluster": 0,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Cette initiative a pour but de renforcer demandeurs d emploi afin de réduire les inégalités. Elle s appuie sur contrat a..."
+  },
+  {
+    "id": 225,
+    "x": 0.8195409827267214,
+    "y": -0.5730205734799753,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur politique de la ville en mobilisant loyers abordables. Elle bénéficiera à les primo-arrivants grâce à..."
+  },
+  {
+    "id": 67,
+    "x": 0.9247671023470231,
+    "y": -0.3805335811944728,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer bien-être en faveur de les enfants issus de milieux défavorisés dans le cadre de la politiqu..."
+  },
+  {
+    "id": 224,
+    "x": 0.8388785398710439,
+    "y": -0.5443186523938209,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur aide au logement en mobilisant mixité sociale. Elle bénéficiera à les bénéficiaires du RSA grâce à ré..."
+  },
+  {
+    "id": 266,
+    "x": 0.7587094809023068,
+    "y": 0.6514291393459091,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Cette initiative a pour but de renforcer décrochage scolaire afin de réduire les inégalités. Elle s appuie sur protectio..."
+  },
+  {
+    "id": 10,
+    "x": 0.9163626736464378,
+    "y": -0.40034916054308434,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "L action porte sur retour à l emploi en mobilisant qualification. Elle bénéficiera à les habitants des zones rurales grâ..."
+  },
+  {
+    "id": 62,
+    "x": 0.8644162041303282,
+    "y": -0.5027769147812129,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer urgences médicales en faveur de les travailleurs peu qualifiés dans le cadre de la stratégie..."
+  },
+  {
+    "id": 263,
+    "x": 0.7581693126669312,
+    "y": 0.6520577377273833,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Cette initiative a pour but de renforcer soutien scolaire afin de réduire les inégalités. Elle s appuie sur orientation ..."
+  },
+  {
+    "id": 258,
+    "x": 0.7916860773647791,
+    "y": -0.6109281094423213,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de la politique régionale, ce programme développe des actions de égalité des chances. Il s adresse à les h..."
+  },
+  {
+    "id": 207,
+    "x": 0.851625454802204,
+    "y": -0.5241508225052588,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer expulsion locative en faveur de les bénéficiaires du RSA dans le cadre de la convention terr..."
+  },
+  {
+    "id": 91,
+    "x": 0.8882680811251787,
+    "y": -0.45932539234642034,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer sécurité sociale en faveur de les travailleurs peu qualifiés dans le cadre de la politique r..."
+  },
+  {
+    "id": 99,
+    "x": 0.7723694162860419,
+    "y": -0.6351735863415284,
+    "km_cluster": 2,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur prévention sanitaire en mobilisant médecine de proximité. Elle bénéficiera à les seniors grâce à vacc..."
+  },
+  {
+    "id": 222,
+    "x": 0.6751641003725398,
+    "y": -0.7376675657558347,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Dans le cadre de le projet de territoire, ce programme développe des actions de rénovation urbaine. Il s adresse à les f..."
+  },
+  {
+    "id": 40,
+    "x": 0.8861572728880047,
+    "y": -0.4633846002055897,
+    "km_cluster": 2,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "L action porte sur employabilité en mobilisant apprentissage. Elle bénéficiera à les femmes en situation de précarité gr..."
+  },
+  {
+    "id": 108,
+    "x": 0.9093257930369018,
+    "y": -0.416084849661472,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Le projet vise à développer zones naturelles protégées en faveur de les travailleurs peu qualifiés dans le cadre de le p..."
+  },
+  {
+    "id": 51,
+    "x": 0.8621950661507733,
+    "y": -0.5065764186233539,
+    "km_cluster": 2,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur santé mentale en mobilisant sécurité sociale. Elle bénéficiera à les enfants issus de milieux défavor..."
+  },
+  {
+    "id": 111,
+    "x": 0.9103103405320339,
+    "y": -0.4139264233175415,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Le projet vise à développer isolation thermique en faveur de les travailleurs peu qualifiés dans le cadre de la stratégi..."
+  },
+  {
+    "id": 246,
+    "x": 0.7874009414187401,
+    "y": -0.6164412035651753,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur hébergement urgence en mobilisant sans-abri. Elle bénéficiera à les primo-arrivants grâce à quartiers..."
+  },
+  {
+    "id": 256,
+    "x": 0.8791400573723872,
+    "y": -0.47656348949880273,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur lycée professionnel en mobilisant bourses étudiantes. Elle bénéficiera à les bénéficiaires du RSA grâ..."
+  },
+  {
+    "id": 48,
+    "x": 0.7898305570220746,
+    "y": -0.6133251105198607,
+    "km_cluster": 5,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Dans le cadre de le schéma départemental, ce programme développe des actions de alternance. Il s adresse à les enfants i..."
+  },
+  {
+    "id": 213,
+    "x": 0.8441083082875741,
+    "y": -0.5361726996779019,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer HLM en faveur de les primo-arrivants dans le cadre de le projet de territoire. Les actions p..."
+  },
+  {
+    "id": 159,
+    "x": 0.7150305528351939,
+    "y": -0.6990932044528807,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de le plan national, ce programme développe des actions de formation digitale. Il s adresse à les enfants ..."
+  },
+  {
+    "id": 47,
+    "x": 0.7356418293613247,
+    "y": -0.6773707248574622,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Dans le cadre de le plan national, ce programme développe des actions de demandeurs d emploi. Il s adresse à les jeunes ..."
+  },
+  {
+    "id": 209,
+    "x": 0.7237070250052612,
+    "y": -0.6901073408956278,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Dans le cadre de le programme européen, ce programme développe des actions de quartiers prioritaires. Il s adresse à les..."
+  },
+  {
+    "id": 12,
+    "x": 0.8811455737914862,
+    "y": -0.47284508857306823,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "L action porte sur qualification en mobilisant chômage longue durée. Elle bénéficiera à les bénéficiaires du RSA grâce à..."
+  },
+  {
+    "id": 293,
+    "x": 0.7735472174876864,
+    "y": -0.6337386703658363,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de la convention territoriale, ce programme développe des actions de sport jeunesse. Il s adresse à les pe..."
+  },
+  {
+    "id": 103,
+    "x": 0.8382106648953906,
+    "y": -0.5453465698577621,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "L action porte sur développement durable en mobilisant écologie. Elle bénéficiera à les bénéficiaires du RSA grâce à sol..."
+  },
+  {
+    "id": 39,
+    "x": 0.9117591314451481,
+    "y": -0.41072531724546685,
+    "km_cluster": 2,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "L action porte sur certification professionnelle en mobilisant chômage longue durée. Elle bénéficiera à les habitants de..."
+  },
+  {
+    "id": 175,
+    "x": 0.8118931037912573,
+    "y": -0.5838061219413503,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur médiation numérique en mobilisant formation digitale. Elle bénéficiera à les travailleurs peu qualifi..."
+  },
+  {
+    "id": 119,
+    "x": 0.865723748425591,
+    "y": -0.5005221188038987,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Le projet vise à développer mobilité durable en faveur de les personnes âgées dans le cadre de le plan national. Les act..."
+  },
+  {
+    "id": 299,
+    "x": 0.7820006070190665,
+    "y": 0.6232776673536536,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Cette initiative a pour but de renforcer orientation scolaire afin de réduire les inégalités. Elle s appuie sur parental..."
+  },
+  {
+    "id": 26,
+    "x": 0.7804245588401469,
+    "y": 0.6252499563847742,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Cette initiative a pour but de renforcer accompagnement emploi afin de réduire les inégalités. Elle s appuie sur employa..."
+  },
+  {
+    "id": 128,
+    "x": 0.7316796322393144,
+    "y": 0.6816486747336501,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Cette initiative a pour but de renforcer développement durable afin de réduire les inégalités. Elle s appuie sur véhicul..."
+  },
+  {
+    "id": 136,
+    "x": 0.7341430087673113,
+    "y": -0.6789948767686538,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de qualité de l air. Il s adresse à les adultes..."
+  },
+  {
+    "id": 277,
+    "x": 0.8751988702829585,
+    "y": -0.4837633072644442,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur sport jeunesse en mobilisant citoyenneté. Elle bénéficiera à les personnes en situation de handicap g..."
+  },
+  {
+    "id": 241,
+    "x": 0.7974629246000998,
+    "y": 0.6033679506638179,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Cette initiative a pour but de renforcer expulsion locative afin de réduire les inégalités. Elle s appuie sur accès au l..."
+  },
+  {
+    "id": 21,
+    "x": 0.8490245610543578,
+    "y": -0.5283533805384945,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "L action porte sur insertion en mobilisant accompagnement emploi. Elle bénéficiera à les seniors grâce à employabilité e..."
+  },
+  {
+    "id": 287,
+    "x": 0.7722538592150731,
+    "y": -0.6353140773880477,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de le projet de territoire, ce programme développe des actions de orientation scolaire. Il s adresse à les..."
+  },
+  {
+    "id": 3,
+    "x": 0.9012280277736028,
+    "y": -0.4333451764532546,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer compétences en faveur de les familles monoparentales dans le cadre de la stratégie nationale..."
+  },
+  {
+    "id": 295,
+    "x": 0.9211631036816391,
+    "y": -0.38917674187393253,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur école inclusive en mobilisant inégalités scolaires. Elle bénéficiera à les personnes en situation de ..."
+  },
+  {
+    "id": 115,
+    "x": 0.8583779589385447,
+    "y": -0.5130178160731828,
+    "km_cluster": 2,
+    "lda_topic": 3,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "L action porte sur développement durable en mobilisant agriculture biologique. Elle bénéficiera à les habitants des zone..."
+  },
+  {
+    "id": 81,
+    "x": 0.8849118078654045,
+    "y": -0.4657586202104921,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer dépistage en faveur de les enfants issus de milieux défavorisés dans le cadre de le programm..."
+  },
+  {
+    "id": 13,
+    "x": 0.7746384392073892,
+    "y": 0.6324043710335497,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Cette initiative a pour but de renforcer dispositif emploi afin de réduire les inégalités. Elle s appuie sur certificati..."
+  },
+  {
+    "id": 6,
+    "x": 0.957668164686096,
+    "y": -0.2878744280876034,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer insertion en faveur de les adultes en reconversion dans le cadre de la convention territoria..."
+  },
+  {
+    "id": 7,
+    "x": 0.753998507971534,
+    "y": -0.6568761298576016,
+    "km_cluster": 5,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Dans le cadre de le schéma départemental, ce programme développe des actions de insertion. Il s adresse à les personnes ..."
+  },
+  {
+    "id": 98,
+    "x": 0.6372309095192564,
+    "y": -0.7706729318934599,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de le projet de territoire, ce programme développe des actions de urgences médicales. Il s adresse à les p..."
+  },
+  {
+    "id": 88,
+    "x": 0.7025176186324061,
+    "y": -0.7116663512567201,
+    "km_cluster": 5,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de le projet de territoire, ce programme développe des actions de pathologies. Il s adresse à les enfants ..."
+  },
+  {
+    "id": 122,
+    "x": 0.8624001093744293,
+    "y": -0.5062272724290665,
+    "km_cluster": 2,
+    "lda_topic": 3,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "L action porte sur énergie renouvelable en mobilisant décarbonation. Elle bénéficiera à les enfants issus de milieux déf..."
+  },
+  {
+    "id": 173,
+    "x": 0.6667389766354263,
+    "y": -0.7452913101835715,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de la stratégie nationale, ce programme développe des actions de télétravail. Il s adresse à les personnes..."
+  },
+  {
+    "id": 63,
+    "x": 0.7765071535787682,
+    "y": 0.6301084354624997,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Cette initiative a pour but de renforcer prévention sanitaire afin de réduire les inégalités. Elle s appuie sur épidémio..."
+  },
+  {
+    "id": 129,
+    "x": 0.6073092119141551,
+    "y": -0.7944655569149665,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de le plan national, ce programme développe des actions de écologie. Il s adresse à les familles monoparen..."
+  },
+  {
+    "id": 280,
+    "x": 0.8969369291443839,
+    "y": -0.4421585068016245,
+    "km_cluster": 3,
+    "lda_topic": 0,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Le projet vise à développer décrochage scolaire en faveur de les familles monoparentales dans le cadre de le plan nation..."
+  },
+  {
+    "id": 142,
+    "x": 0.7770273395188056,
+    "y": 0.6294668487222551,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Cette initiative a pour but de renforcer agriculture biologique afin de réduire les inégalités. Elle s appuie sur énergi..."
+  },
+  {
+    "id": 292,
+    "x": 0.7261828736664385,
+    "y": -0.6875015883571131,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de la politique régionale, ce programme développe des actions de réussite éducative. Il s adresse à les fa..."
+  },
+  {
+    "id": 160,
+    "x": 0.800580567893437,
+    "y": 0.5992251282376447,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Cette initiative a pour but de renforcer dématérialisation afin de réduire les inégalités. Elle s appuie sur accès inter..."
+  },
+  {
+    "id": 171,
+    "x": 0.8653758156993564,
+    "y": -0.5011234354953614,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Le projet vise à développer formation digitale en faveur de les habitants des zones rurales dans le cadre de le plan nat..."
+  },
+  {
+    "id": 190,
+    "x": 0.6858518540197347,
+    "y": -0.727741186368954,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de la stratégie nationale, ce programme développe des actions de e-administration. Il s adresse à les béné..."
+  },
+  {
+    "id": 150,
+    "x": 0.6569650009323671,
+    "y": -0.7539210751464207,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de le projet de territoire, ce programme développe des actions de pesticides. Il s adresse à les familles ..."
+  },
+  {
+    "id": 42,
+    "x": 0.7766414666909137,
+    "y": -0.6299428801218302,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Dans le cadre de la convention territoriale, ce programme développe des actions de apprentissage. Il s adresse à les per..."
+  },
+  {
+    "id": 163,
+    "x": 0.7736905709726841,
+    "y": -0.6335636514099923,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur e-administration en mobilisant données personnelles. Elle bénéficiera à les familles monoparentales g..."
+  },
+  {
+    "id": 154,
+    "x": 0.7971515863189633,
+    "y": 0.6037792215944171,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Cette initiative a pour but de renforcer alphabétisation numérique afin de réduire les inégalités. Elle s appuie sur e-a..."
+  },
+  {
+    "id": 55,
+    "x": 0.8402658071256539,
+    "y": -0.5421746705402912,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer dépistage en faveur de les personnes âgées dans le cadre de la stratégie nationale. Les acti..."
+  },
+  {
+    "id": 279,
+    "x": 0.7369582515457517,
+    "y": -0.6759382630674405,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de le plan national, ce programme développe des actions de bourses étudiantes. Il s adresse à les bénéfici..."
+  },
+  {
+    "id": 208,
+    "x": 0.8898182237435728,
+    "y": -0.45631516377809855,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer mal logement en faveur de les habitants des zones rurales dans le cadre de la stratégie nati..."
+  },
+  {
+    "id": 102,
+    "x": 0.895519954505436,
+    "y": -0.4450213602542939,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Le projet vise à développer biodiversité en faveur de les habitants des zones rurales dans le cadre de le contrat de vil..."
+  },
+  {
+    "id": 17,
+    "x": 0.9277804486976087,
+    "y": -0.373126572377878,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer dispositif emploi en faveur de les travailleurs peu qualifiés dans le cadre de le schéma dép..."
+  },
+  {
+    "id": 92,
+    "x": 0.8739231716005529,
+    "y": -0.48606408028122233,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer remboursement des soins en faveur de les adultes en reconversion dans le cadre de le contrat..."
+  },
+  {
+    "id": 232,
+    "x": 0.8699056585867948,
+    "y": -0.49321815169220473,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer aide au logement en faveur de les bénéficiaires du RSA dans le cadre de le contrat de ville...."
+  },
+  {
+    "id": 144,
+    "x": 0.9015512399834362,
+    "y": -0.4326723491099572,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Le projet vise à développer zones naturelles protégées en faveur de les adultes en reconversion dans le cadre de le plan..."
+  },
+  {
+    "id": 1,
+    "x": 0.7745432795129183,
+    "y": 0.6325209151967808,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Cette initiative a pour but de renforcer reconversion professionnelle afin de réduire les inégalités. Elle s appuie sur ..."
+  },
+  {
+    "id": 84,
+    "x": 0.7793219834586067,
+    "y": 0.6266236877888858,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Cette initiative a pour but de renforcer déserts médicaux afin de réduire les inégalités. Elle s appuie sur bien-être et..."
+  },
+  {
+    "id": 125,
+    "x": 0.707447574352218,
+    "y": -0.7067658236949231,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de le projet de territoire, ce programme développe des actions de économie circulaire. Il s adresse à les ..."
+  },
+  {
+    "id": 117,
+    "x": 0.72079098011701,
+    "y": -0.6931524817685931,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de le programme européen, ce programme développe des actions de recyclage. Il s adresse à les enfants issu..."
+  },
+  {
+    "id": 95,
+    "x": 0.8100687764505249,
+    "y": -0.5863348679892316,
+    "km_cluster": 2,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur vaccination en mobilisant remboursement des soins. Elle bénéficiera à les femmes en situation de préc..."
+  },
+  {
+    "id": 174,
+    "x": 0.6499431226769157,
+    "y": -0.7599828532835328,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de le programme européen, ce programme développe des actions de données personnelles. Il s adresse à les f..."
+  },
+  {
+    "id": 165,
+    "x": 0.6757736615342859,
+    "y": -0.7371091902673202,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de la convention territoriale, ce programme développe des actions de données personnelles. Il s adresse à ..."
+  },
+  {
+    "id": 104,
+    "x": 0.7903211072673293,
+    "y": 0.6126928654780817,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Cette initiative a pour but de renforcer décarbonation afin de réduire les inégalités. Elle s appuie sur pesticides et c..."
+  },
+  {
+    "id": 24,
+    "x": 0.7512192141095919,
+    "y": 0.6600527951251831,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Cette initiative a pour but de renforcer apprentissage afin de réduire les inégalités. Elle s appuie sur certification p..."
+  },
+  {
+    "id": 20,
+    "x": 0.7875542678973565,
+    "y": 0.6162453043363972,
+    "km_cluster": 0,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Cette initiative a pour but de renforcer alternance afin de réduire les inégalités. Elle s appuie sur chômage longue dur..."
+  },
+  {
+    "id": 220,
+    "x": 0.7944506165395695,
+    "y": -0.6073287560126706,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur résidence sociale en mobilisant mal logement. Elle bénéficiera à les familles monoparentales grâce à ..."
+  },
+  {
+    "id": 97,
+    "x": 0.6897185453907849,
+    "y": -0.7240775705295805,
+    "km_cluster": 5,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de le projet de territoire, ce programme développe des actions de cancer. Il s adresse à les travailleurs ..."
+  },
+  {
+    "id": 252,
+    "x": 0.7486348814909712,
+    "y": 0.6629825142603684,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Cette initiative a pour but de renforcer égalité des chances afin de réduire les inégalités. Elle s appuie sur citoyenne..."
+  },
+  {
+    "id": 166,
+    "x": 0.8824886239827349,
+    "y": -0.4703337416569847,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Le projet vise à développer e-administration en faveur de les femmes en situation de précarité dans le cadre de la polit..."
+  },
+  {
+    "id": 268,
+    "x": 0.8189720814050108,
+    "y": -0.5738333642087611,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur décrochage scolaire en mobilisant méthodes pédagogiques. Elle bénéficiera à les familles monoparental..."
+  },
+  {
+    "id": 37,
+    "x": 0.9109602904400259,
+    "y": -0.41249405964380115,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer insertion en faveur de les familles monoparentales dans le cadre de le contrat de ville. Les..."
+  },
+  {
+    "id": 248,
+    "x": 0.8309544720700038,
+    "y": -0.5563404221759023,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur mixité sociale en mobilisant logement social. Elle bénéficiera à les femmes en situation de précarité..."
+  },
+  {
+    "id": 101,
+    "x": 0.7597556765767752,
+    "y": 0.6502086679746485,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Cette initiative a pour but de renforcer solaire afin de réduire les inégalités. Elle s appuie sur écologie et cible pri..."
+  },
+  {
+    "id": 186,
+    "x": 0.6542990893687428,
+    "y": -0.756235876992909,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de la stratégie nationale, ce programme développe des actions de formation digitale. Il s adresse à les se..."
+  },
+  {
+    "id": 170,
+    "x": 0.7928748564258342,
+    "y": 0.6093844944267228,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Cette initiative a pour but de renforcer usages numériques afin de réduire les inégalités. Elle s appuie sur automatisat..."
+  },
+  {
+    "id": 38,
+    "x": 0.753088502899649,
+    "y": -0.6579192251335763,
+    "km_cluster": 5,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de reconversion professionnelle. Il s adresse à..."
+  },
+  {
+    "id": 202,
+    "x": 0.8205288524380412,
+    "y": 0.5716051104711286,
+    "km_cluster": 0,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Cette initiative a pour but de renforcer aide au logement afin de réduire les inégalités. Elle s appuie sur politique de..."
+  },
+  {
+    "id": 34,
+    "x": 0.6996317916671729,
+    "y": -0.7145035731811155,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Dans le cadre de le schéma départemental, ce programme développe des actions de employabilité. Il s adresse à les person..."
+  },
+  {
+    "id": 33,
+    "x": 0.7431628055428416,
+    "y": -0.6691106369336035,
+    "km_cluster": 5,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Dans le cadre de la convention territoriale, ce programme développe des actions de retour à l emploi. Il s adresse à les..."
+  },
+  {
+    "id": 238,
+    "x": 0.8395004454658028,
+    "y": -0.543358999247016,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur mixité sociale en mobilisant HLM. Elle bénéficiera à les adultes en reconversion grâce à mal logement..."
+  },
+  {
+    "id": 178,
+    "x": 0.8028453785982576,
+    "y": -0.5961873011591411,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur formation digitale en mobilisant fracture numérique. Elle bénéficiera à les jeunes de 16 à 25 ans grâ..."
+  },
+  {
+    "id": 106,
+    "x": 0.8417501759396967,
+    "y": -0.5398672441494201,
+    "km_cluster": 2,
+    "lda_topic": 3,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "L action porte sur éolien en mobilisant développement durable. Elle bénéficiera à les jeunes de 16 à 25 ans grâce à zone..."
+  },
+  {
+    "id": 35,
+    "x": 0.935671971647573,
+    "y": -0.35287102668417447,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer demandeurs d emploi en faveur de les femmes en situation de précarité dans le cadre de la co..."
+  },
+  {
+    "id": 25,
+    "x": 0.9328950712157085,
+    "y": -0.36014828349089517,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer contrat aidé en faveur de les adultes en reconversion dans le cadre de le plan national. Les..."
+  },
+  {
+    "id": 132,
+    "x": 0.9111766461023684,
+    "y": -0.4120159215341556,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Le projet vise à développer agriculture biologique en faveur de les enfants issus de milieux défavorisés dans le cadre d..."
+  },
+  {
+    "id": 221,
+    "x": 0.8832759054587693,
+    "y": -0.46885357504874714,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer rénovation urbaine en faveur de les enfants issus de milieux défavorisés dans le cadre de le..."
+  },
+  {
+    "id": 223,
+    "x": 0.8220178417751987,
+    "y": 0.5694617351528061,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Cette initiative a pour but de renforcer allocation logement afin de réduire les inégalités. Elle s appuie sur politique..."
+  },
+  {
+    "id": 169,
+    "x": 0.7958567140376167,
+    "y": -0.6054850045387147,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur formation digitale en mobilisant services en ligne. Elle bénéficiera à les habitants des zones rurale..."
+  },
+  {
+    "id": 240,
+    "x": 0.8939334233787525,
+    "y": -0.4481997708236186,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer expulsion locative en faveur de les femmes en situation de précarité dans le cadre de le pro..."
+  },
+  {
+    "id": 83,
+    "x": 0.8867880926962983,
+    "y": -0.46217624198141294,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer sécurité sociale en faveur de les habitants des zones rurales dans le cadre de le projet de ..."
+  },
+  {
+    "id": 234,
+    "x": 0.8021175074342061,
+    "y": 0.5971662283380871,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Cette initiative a pour but de renforcer mal logement afin de réduire les inégalités. Elle s appuie sur allocation logem..."
+  },
+  {
+    "id": 236,
+    "x": 0.8741214044901053,
+    "y": -0.4857074944987423,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer mal logement en faveur de les habitants des zones rurales dans le cadre de la stratégie nati..."
+  },
+  {
+    "id": 290,
+    "x": 0.7609707151946681,
+    "y": 0.6487862287503607,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Cette initiative a pour but de renforcer école inclusive afin de réduire les inégalités. Elle s appuie sur protection en..."
+  },
+  {
+    "id": 267,
+    "x": 0.9308302276032008,
+    "y": -0.3654518947552108,
+    "km_cluster": 3,
+    "lda_topic": 0,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Le projet vise à développer parentalité en faveur de les jeunes de 16 à 25 ans dans le cadre de la stratégie nationale. ..."
+  },
+  {
+    "id": 137,
+    "x": 0.7776747085047678,
+    "y": -0.6286668813863385,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "L action porte sur recyclage en mobilisant solaire. Elle bénéficiera à les seniors grâce à biodiversité et décarbonation..."
+  },
+  {
+    "id": 188,
+    "x": 0.7930651582760899,
+    "y": -0.6091368111750597,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur télétravail en mobilisant automatisation. Elle bénéficiera à les jeunes de 16 à 25 ans grâce à dématé..."
+  },
+  {
+    "id": 146,
+    "x": 0.7562364359861614,
+    "y": 0.6542984432863557,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Cette initiative a pour but de renforcer eau potable afin de réduire les inégalités. Elle s appuie sur économie circulai..."
+  },
+  {
+    "id": 16,
+    "x": 0.9491406151308754,
+    "y": -0.31485249357275813,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer formation professionnelle en faveur de les adultes en reconversion dans le cadre de le contr..."
+  },
+  {
+    "id": 180,
+    "x": 0.861451849336901,
+    "y": -0.507839257318724,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Le projet vise à développer intelligence artificielle en faveur de les bénéficiaires du RSA dans le cadre de la conventi..."
+  },
+  {
+    "id": 53,
+    "x": 0.816990744676619,
+    "y": -0.5766507809001417,
+    "km_cluster": 2,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur sécurité sociale en mobilisant dépistage. Elle bénéficiera à les adultes en reconversion grâce à prom..."
+  },
+  {
+    "id": 36,
+    "x": 0.7849385550534878,
+    "y": -0.6195736153118069,
+    "km_cluster": 5,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Dans le cadre de le programme européen, ce programme développe des actions de chômage longue durée. Il s adresse à les h..."
+  },
+  {
+    "id": 158,
+    "x": 0.864288282116071,
+    "y": -0.5029967846784421,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Le projet vise à développer compétences numériques en faveur de les personnes âgées dans le cadre de la convention terri..."
+  },
+  {
+    "id": 247,
+    "x": 0.8239554746673152,
+    "y": -0.5666545471146942,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur politique de la ville en mobilisant sans-abri. Elle bénéficiera à les femmes en situation de précarit..."
+  },
+  {
+    "id": 110,
+    "x": 0.6728542524270406,
+    "y": -0.7397750705389093,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de la stratégie nationale, ce programme développe des actions de empreinte carbone. Il s adresse à les bén..."
+  },
+  {
+    "id": 265,
+    "x": 0.9271720046317222,
+    "y": -0.3746359216989125,
+    "km_cluster": 3,
+    "lda_topic": 0,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Le projet vise à développer numérique éducatif en faveur de les adultes en reconversion dans le cadre de la politique ré..."
+  },
+  {
+    "id": 284,
+    "x": 0.866737417883399,
+    "y": -0.49876472253039134,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur école inclusive en mobilisant jeunes en difficulté. Elle bénéficiera à les seniors grâce à protection..."
+  },
+  {
+    "id": 269,
+    "x": 0.7309676286180359,
+    "y": -0.6824121378701621,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de méthodes pédagogiques. Il s adresse à les bé..."
+  },
+  {
+    "id": 228,
+    "x": 0.7959238623257436,
+    "y": 0.6053967338700057,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Cette initiative a pour but de renforcer résidence sociale afin de réduire les inégalités. Elle s appuie sur mixité soci..."
+  },
+  {
+    "id": 177,
+    "x": 0.781475042564894,
+    "y": -0.6239365014552339,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur médiation numérique en mobilisant alphabétisation numérique. Elle bénéficiera à les seniors grâce à a..."
+  },
+  {
+    "id": 151,
+    "x": 0.8251054803092492,
+    "y": -0.5649787131951461,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur données personnelles en mobilisant compétences numériques. Elle bénéficiera à les travailleurs peu qu..."
+  },
+  {
+    "id": 205,
+    "x": 0.8649413975689942,
+    "y": -0.5018728711251437,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer mixité sociale en faveur de les familles monoparentales dans le cadre de le projet de territ..."
+  },
+  {
+    "id": 54,
+    "x": 0.7712062493038122,
+    "y": 0.6365853603679136,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Cette initiative a pour but de renforcer maternité afin de réduire les inégalités. Elle s appuie sur vaccination et cibl..."
+  },
+  {
+    "id": 286,
+    "x": 0.7744665207661304,
+    "y": 0.6326148972419199,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Cette initiative a pour but de renforcer sport jeunesse afin de réduire les inégalités. Elle s appuie sur citoyenneté et..."
+  },
+  {
+    "id": 31,
+    "x": 0.9331994099671513,
+    "y": -0.35935895875428037,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer retour à l emploi en faveur de les femmes en situation de précarité dans le cadre de le plan..."
+  },
+  {
+    "id": 210,
+    "x": 0.8844703271449694,
+    "y": -0.46659644276405593,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer relogement en faveur de les primo-arrivants dans le cadre de le projet de territoire. Les ac..."
+  },
+  {
+    "id": 23,
+    "x": 0.7734441693644448,
+    "y": 0.633864430991473,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Cette initiative a pour but de renforcer retour à l emploi afin de réduire les inégalités. Elle s appuie sur qualificati..."
+  },
+  {
+    "id": 90,
+    "x": 0.6487614067367901,
+    "y": -0.7609918771766891,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de le plan national, ce programme développe des actions de maladies chroniques. Il s adresse à les personn..."
+  },
+  {
+    "id": 68,
+    "x": 0.9006100085021805,
+    "y": -0.4346281313786561,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer médecine de proximité en faveur de les travailleurs peu qualifiés dans le cadre de le progra..."
+  },
+  {
+    "id": 116,
+    "x": 0.7758149705240871,
+    "y": 0.6309604833194467,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Cette initiative a pour but de renforcer réduction des émissions afin de réduire les inégalités. Elle s appuie sur solai..."
+  },
+  {
+    "id": 239,
+    "x": 0.8172389470934072,
+    "y": -0.57629897046035,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur mal logement en mobilisant aide au logement. Elle bénéficiera à les familles monoparentales grâce à e..."
+  },
+  {
+    "id": 77,
+    "x": 0.7967558206606214,
+    "y": -0.6043013836186542,
+    "km_cluster": 2,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur médecine de proximité en mobilisant promotion de la santé. Elle bénéficiera à les personnes âgées grâ..."
+  },
+  {
+    "id": 64,
+    "x": 0.863053110564355,
+    "y": -0.5051131836976652,
+    "km_cluster": 2,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur promotion de la santé en mobilisant maternité. Elle bénéficiera à les enfants issus de milieux défavo..."
+  },
+  {
+    "id": 193,
+    "x": 0.8341003050194165,
+    "y": -0.5516128000386832,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur usages numériques en mobilisant intelligence artificielle. Elle bénéficiera à les personnes en situat..."
+  },
+  {
+    "id": 168,
+    "x": 0.8161932817709855,
+    "y": -0.5777789601499078,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur automatisation en mobilisant données personnelles. Elle bénéficiera à les personnes en situation de h..."
+  },
+  {
+    "id": 189,
+    "x": 0.8165889514866603,
+    "y": -0.5772196153197816,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur automatisation en mobilisant zones blanches. Elle bénéficiera à les bénéficiaires du RSA grâce à accè..."
+  },
+  {
+    "id": 27,
+    "x": 0.8951041066782852,
+    "y": -0.445857194859149,
+    "km_cluster": 2,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "L action porte sur contrat aidé en mobilisant alternance. Elle bénéficiera à les femmes en situation de précarité grâce ..."
+  },
+  {
+    "id": 109,
+    "x": 0.8916438831636029,
+    "y": -0.45273743562569596,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Le projet vise à développer empreinte carbone en faveur de les personnes âgées dans le cadre de le programme européen. L..."
+  },
+  {
+    "id": 56,
+    "x": 0.728839331651433,
+    "y": 0.6846847658871144,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Cette initiative a pour but de renforcer obésité afin de réduire les inégalités. Elle s appuie sur dépistage et cible pr..."
+  },
+  {
+    "id": 219,
+    "x": 0.799335598724208,
+    "y": -0.6008848480467884,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur résidence sociale en mobilisant mixité sociale. Elle bénéficiera à les familles monoparentales grâce ..."
+  },
+  {
+    "id": 113,
+    "x": 0.7040995753008551,
+    "y": -0.7101012519783045,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de énergie renouvelable. Il s adresse à les tra..."
+  },
+  {
+    "id": 185,
+    "x": 0.7837655583029645,
+    "y": -0.6210568006374638,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur alphabétisation numérique en mobilisant données personnelles. Elle bénéficiera à les primo-arrivants ..."
+  },
+  {
+    "id": 242,
+    "x": 0.8107473552312575,
+    "y": -0.5853962128213004,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur allocation logement en mobilisant relogement. Elle bénéficiera à les seniors grâce à requalification ..."
+  },
+  {
+    "id": 11,
+    "x": 0.8412028896255344,
+    "y": -0.5407196117080006,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "L action porte sur employabilité en mobilisant compétences. Elle bénéficiera à les familles monoparentales grâce à dispo..."
+  },
+  {
+    "id": 194,
+    "x": 0.7797241539799793,
+    "y": -0.6261231857232292,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur formation digitale en mobilisant services en ligne. Elle bénéficiera à les familles monoparentales gr..."
+  },
+  {
+    "id": 218,
+    "x": 0.9235219398516191,
+    "y": -0.38354559913092795,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer allocation logement en faveur de les travailleurs peu qualifiés dans le cadre de le projet d..."
+  },
+  {
+    "id": 139,
+    "x": 0.7881498781431748,
+    "y": 0.6154833625557223,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Cette initiative a pour but de renforcer réduction des émissions afin de réduire les inégalités. Elle s appuie sur empre..."
+  },
+  {
+    "id": 282,
+    "x": 0.9345133225050855,
+    "y": -0.35592815294734126,
+    "km_cluster": 3,
+    "lda_topic": 0,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Le projet vise à développer citoyenneté en faveur de les enfants issus de milieux défavorisés dans le cadre de la conven..."
+  },
+  {
+    "id": 211,
+    "x": 0.7976801006972024,
+    "y": -0.6030808046619466,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur rénovation urbaine en mobilisant expulsion locative. Elle bénéficiera à les habitants des zones rural..."
+  },
+  {
+    "id": 140,
+    "x": 0.7014655356093301,
+    "y": -0.7127033761336589,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de la convention territoriale, ce programme développe des actions de économie circulaire. Il s adresse à l..."
+  },
+  {
+    "id": 278,
+    "x": 0.7139345848907086,
+    "y": -0.7002124024158182,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de le plan national, ce programme développe des actions de sport jeunesse. Il s adresse à les personnes en..."
+  },
+  {
+    "id": 288,
+    "x": 0.8453535893883756,
+    "y": -0.5342071778890564,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur lycée professionnel en mobilisant citoyenneté. Elle bénéficiera à les bénéficiaires du RSA grâce à sp..."
+  },
+  {
+    "id": 30,
+    "x": 0.9579648711158806,
+    "y": -0.28688552718451016,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer certification professionnelle en faveur de les enfants issus de milieux défavorisés dans le ..."
+  },
+  {
+    "id": 147,
+    "x": 0.6388040691043995,
+    "y": -0.7693694569552795,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de la politique régionale, ce programme développe des actions de véhicules électriques. Il s adresse à les..."
+  },
+  {
+    "id": 29,
+    "x": 0.7668400321173306,
+    "y": -0.6418382702381429,
+    "km_cluster": 5,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de accompagnement emploi. Il s adresse à les pe..."
+  },
+  {
+    "id": 131,
+    "x": 0.9054339286042062,
+    "y": -0.424487221164964,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Le projet vise à développer réduction des émissions en faveur de les personnes âgées dans le cadre de le projet de terri..."
+  },
+  {
+    "id": 141,
+    "x": 0.7874215181835384,
+    "y": 0.6164149192723447,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Cette initiative a pour but de renforcer eau potable afin de réduire les inégalités. Elle s appuie sur décarbonation et ..."
+  },
+  {
+    "id": 127,
+    "x": 0.7042490040953306,
+    "y": -0.709953054948519,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de le programme européen, ce programme développe des actions de qualité de l air. Il s adresse à les perso..."
+  },
+  {
+    "id": 257,
+    "x": 0.8833834755528196,
+    "y": -0.4686508669790561,
+    "km_cluster": 3,
+    "lda_topic": 0,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Le projet vise à développer orientation scolaire en faveur de les seniors dans le cadre de la convention territoriale. L..."
+  },
+  {
+    "id": 198,
+    "x": 0.835467670644598,
+    "y": -0.5495395993990693,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Le projet vise à développer formation digitale en faveur de les familles monoparentales dans le cadre de le schéma dépar..."
+  },
+  {
+    "id": 191,
+    "x": 0.88419007950427,
+    "y": -0.46712728811987947,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Le projet vise à développer accès internet en faveur de les travailleurs peu qualifiés dans le cadre de le programme eur..."
+  },
+  {
+    "id": 245,
+    "x": 0.8299783631093576,
+    "y": -0.5577955869046576,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur quartiers prioritaires en mobilisant expulsion locative. Elle bénéficiera à les jeunes de 16 à 25 ans..."
+  },
+  {
+    "id": 118,
+    "x": 0.7204233278006356,
+    "y": -0.6935345908897824,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de empreinte carbone. Il s adresse à les femmes..."
+  },
+  {
+    "id": 200,
+    "x": 0.7969402216574526,
+    "y": 0.604058178576013,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Cette initiative a pour but de renforcer e-administration afin de réduire les inégalités. Elle s appuie sur automatisati..."
+  },
+  {
+    "id": 289,
+    "x": 0.7741428149811701,
+    "y": 0.6330109809577001,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Cette initiative a pour but de renforcer orientation scolaire afin de réduire les inégalités. Elle s appuie sur numériqu..."
+  },
+  {
+    "id": 74,
+    "x": 0.8951810980970408,
+    "y": -0.44570259322756495,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer promotion de la santé en faveur de les habitants des zones rurales dans le cadre de le proje..."
+  },
+  {
+    "id": 138,
+    "x": 0.6939703830055673,
+    "y": -0.7200035468739764,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de la stratégie nationale, ce programme développe des actions de recyclage. Il s adresse à les adultes en ..."
+  },
+  {
+    "id": 58,
+    "x": 0.7862965976936606,
+    "y": -0.6178492214572855,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur urgences médicales en mobilisant diabète. Elle bénéficiera à les femmes en situation de précarité grâ..."
+  },
+  {
+    "id": 276,
+    "x": 0.7485005290874557,
+    "y": 0.6631341930226482,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Cette initiative a pour but de renforcer école inclusive afin de réduire les inégalités. Elle s appuie sur méthodes péda..."
+  },
+  {
+    "id": 9,
+    "x": 0.7324724311835207,
+    "y": 0.6807966932617275,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Cette initiative a pour but de renforcer qualification afin de réduire les inégalités. Elle s appuie sur alternance et c..."
+  },
+  {
+    "id": 75,
+    "x": 0.6480175348046644,
+    "y": -0.7616254161894058,
+    "km_cluster": 5,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de le projet de territoire, ce programme développe des actions de urgences médicales. Il s adresse à les f..."
+  },
+  {
+    "id": 57,
+    "x": 0.7709482112311953,
+    "y": 0.6368978376469969,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Cette initiative a pour but de renforcer santé mentale afin de réduire les inégalités. Elle s appuie sur promotion de la..."
+  },
+  {
+    "id": 195,
+    "x": 0.6453737783732677,
+    "y": -0.7638669296338285,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de le programme européen, ce programme développe des actions de cybersécurité. Il s adresse à les familles..."
+  },
+  {
+    "id": 204,
+    "x": 0.7203452380371365,
+    "y": -0.6936156990994516,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de résidence sociale. Il s adresse à les adulte..."
+  },
+  {
+    "id": 8,
+    "x": 0.9539468151823645,
+    "y": -0.29997578869539404,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer missions locales en faveur de les travailleurs peu qualifiés dans le cadre de le programme e..."
+  },
+  {
+    "id": 145,
+    "x": 0.766202267228845,
+    "y": 0.6425994753292112,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Cette initiative a pour but de renforcer qualité de l air afin de réduire les inégalités. Elle s appuie sur eau potable ..."
+  },
+  {
+    "id": 22,
+    "x": 0.7717637383348656,
+    "y": 0.6359093741968216,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Cette initiative a pour but de renforcer demandeurs d emploi afin de réduire les inégalités. Elle s appuie sur employabi..."
+  },
+  {
+    "id": 43,
+    "x": 0.7974079988796337,
+    "y": 0.6034405383488732,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Cette initiative a pour but de renforcer reconversion professionnelle afin de réduire les inégalités. Elle s appuie sur ..."
+  },
+  {
+    "id": 253,
+    "x": 0.9142824478735695,
+    "y": -0.40507728337974447,
+    "km_cluster": 3,
+    "lda_topic": 0,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Le projet vise à développer réussite éducative en faveur de les bénéficiaires du RSA dans le cadre de la stratégie natio..."
+  },
+  {
+    "id": 114,
+    "x": 0.8207615260338197,
+    "y": -0.5712709666897448,
+    "km_cluster": 2,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "L action porte sur eau potable en mobilisant rénovation énergétique. Elle bénéficiera à les seniors grâce à qualité de l..."
+  },
+  {
+    "id": 216,
+    "x": 0.7861590419266973,
+    "y": 0.6180242396515669,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Cette initiative a pour but de renforcer allocation logement afin de réduire les inégalités. Elle s appuie sur habitat d..."
+  },
+  {
+    "id": 182,
+    "x": 0.8101643710641477,
+    "y": -0.5862027736698574,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur télétravail en mobilisant formation digitale. Elle bénéficiera à les jeunes de 16 à 25 ans grâce à dé..."
+  },
+  {
+    "id": 107,
+    "x": 0.8173690838725819,
+    "y": -0.5761143816372719,
+    "km_cluster": 2,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "L action porte sur recyclage en mobilisant biodiversité. Elle bénéficiera à les adultes en reconversion grâce à solaire ..."
+  },
+  {
+    "id": 126,
+    "x": 0.8473646953821639,
+    "y": -0.5310113680703009,
+    "km_cluster": 2,
+    "lda_topic": 3,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "L action porte sur isolation thermique en mobilisant agriculture biologique. Elle bénéficiera à les habitants des zones ..."
+  },
+  {
+    "id": 176,
+    "x": 0.7749143456399371,
+    "y": -0.632066259913807,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "L action porte sur fracture numérique en mobilisant zones blanches. Elle bénéficiera à les seniors grâce à services en l..."
+  },
+  {
+    "id": 105,
+    "x": 0.7806287092094233,
+    "y": 0.6249950546668586,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Cette initiative a pour but de renforcer eau potable afin de réduire les inégalités. Elle s appuie sur réduction des émi..."
+  },
+  {
+    "id": 254,
+    "x": 0.8402614322057349,
+    "y": -0.5421814507593993,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur méthodes pédagogiques en mobilisant citoyenneté. Elle bénéficiera à les familles monoparentales grâce..."
+  },
+  {
+    "id": 275,
+    "x": 0.6859307095779621,
+    "y": -0.7276668617285477,
+    "km_cluster": 3,
+    "lda_topic": 5,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Dans le cadre de le programme européen, ce programme développe des actions de vie associative. Il s adresse à les primo-..."
+  },
+  {
+    "id": 100,
+    "x": 0.6605058181677196,
+    "y": -0.750820926830487,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de santé mentale. Il s adresse à les femmes en ..."
+  },
+  {
+    "id": 70,
+    "x": 0.8721985325630686,
+    "y": -0.489152041593235,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer pathologies en faveur de les habitants des zones rurales dans le cadre de la stratégie natio..."
+  },
+  {
+    "id": 249,
+    "x": 0.8217270591434452,
+    "y": 0.5698812510264439,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Cette initiative a pour but de renforcer mixité sociale afin de réduire les inégalités. Elle s appuie sur résidence soci..."
+  },
+  {
+    "id": 5,
+    "x": 0.9512671413651355,
+    "y": -0.3083680037860662,
+    "km_cluster": 4,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "Le projet vise à développer missions locales en faveur de les primo-arrivants dans le cadre de le plan national. Les act..."
+  },
+  {
+    "id": 184,
+    "x": 0.8780366794408239,
+    "y": -0.47859334466385106,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Le projet vise à développer accès internet en faveur de les adultes en reconversion dans le cadre de le schéma départeme..."
+  },
+  {
+    "id": 28,
+    "x": 0.9068198237097506,
+    "y": -0.4215184543137074,
+    "km_cluster": 2,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "L action porte sur formation professionnelle en mobilisant demandeurs d emploi. Elle bénéficiera à les personnes âgées g..."
+  },
+  {
+    "id": 231,
+    "x": 0.8139405175455942,
+    "y": -0.58094821963546,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "L action porte sur HLM en mobilisant hébergement urgence. Elle bénéficiera à les personnes âgées grâce à quartiers prior..."
+  },
+  {
+    "id": 162,
+    "x": 0.796542079313437,
+    "y": 0.604583092620879,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Cette initiative a pour but de renforcer outils informatiques afin de réduire les inégalités. Elle s appuie sur intellig..."
+  },
+  {
+    "id": 273,
+    "x": 0.9568323657113497,
+    "y": -0.2906403687157412,
+    "km_cluster": 3,
+    "lda_topic": 0,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Le projet vise à développer réussite éducative en faveur de les adultes en reconversion dans le cadre de le contrat de v..."
+  },
+  {
+    "id": 72,
+    "x": 0.7951801149292756,
+    "y": -0.6063733048387471,
+    "km_cluster": 2,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur cancer en mobilisant promotion de la santé. Elle bénéficiera à les personnes âgées grâce à épidémiolo..."
+  },
+  {
+    "id": 148,
+    "x": 0.6541364852507068,
+    "y": -0.7563765323328402,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "Dans le cadre de la stratégie nationale, ce programme développe des actions de eau potable. Il s adresse à les seniors e..."
+  },
+  {
+    "id": 300,
+    "x": 0.8876021861009448,
+    "y": -0.4606108544409521,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur école inclusive en mobilisant inégalités scolaires. Elle bénéficiera à les seniors grâce à jeunes en ..."
+  },
+  {
+    "id": 86,
+    "x": 0.7761934827937431,
+    "y": 0.630494787661658,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Cette initiative a pour but de renforcer obésité afin de réduire les inégalités. Elle s appuie sur promotion de la santé..."
+  },
+  {
+    "id": 291,
+    "x": 0.8452007492849858,
+    "y": -0.5344489623978127,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur protection enfance en mobilisant sport jeunesse. Elle bénéficiera à les femmes en situation de précar..."
+  },
+  {
+    "id": 250,
+    "x": 0.8645508428333339,
+    "y": -0.5025453612920647,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer quartiers prioritaires en faveur de les personnes âgées dans le cadre de la politique région..."
+  },
+  {
+    "id": 96,
+    "x": 0.841303823717394,
+    "y": -0.5405625553055742,
+    "km_cluster": 2,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur déserts médicaux en mobilisant remboursement des soins. Elle bénéficiera à les femmes en situation de..."
+  },
+  {
+    "id": 217,
+    "x": 0.6973012197015849,
+    "y": -0.7167782146540741,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Dans le cadre de la politique régionale, ce programme développe des actions de bail solidaire. Il s adresse à les person..."
+  },
+  {
+    "id": 197,
+    "x": 0.8492647230951079,
+    "y": -0.5279672623432156,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Le projet vise à développer données personnelles en faveur de les seniors dans le cadre de le contrat de ville. Les acti..."
+  },
+  {
+    "id": 71,
+    "x": 0.9007849381319152,
+    "y": -0.4342654663160331,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Le projet vise à développer dépistage en faveur de les travailleurs peu qualifiés dans le cadre de la politique régional..."
+  },
+  {
+    "id": 215,
+    "x": 0.8540557557254611,
+    "y": -0.5201814742108869,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Le projet vise à développer sans-abri en faveur de les jeunes de 16 à 25 ans dans le cadre de le programme européen. Les..."
+  },
+  {
+    "id": 297,
+    "x": 0.7515291087268418,
+    "y": 0.659699930829342,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Cette initiative a pour but de renforcer citoyenneté afin de réduire les inégalités. Elle s appuie sur inégalités scolai..."
+  },
+  {
+    "id": 262,
+    "x": 0.9394944803409618,
+    "y": -0.3425640398653458,
+    "km_cluster": 3,
+    "lda_topic": 0,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Le projet vise à développer citoyenneté en faveur de les habitants des zones rurales dans le cadre de la stratégie natio..."
+  },
+  {
+    "id": 73,
+    "x": 0.6572646423682846,
+    "y": -0.7536598635276334,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de le projet de territoire, ce programme développe des actions de épidémiologie. Il s adresse à les travai..."
+  },
+  {
+    "id": 192,
+    "x": 0.8669131704151288,
+    "y": -0.4984591808370971,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Le projet vise à développer données personnelles en faveur de les jeunes de 16 à 25 ans dans le cadre de le programme eu..."
+  },
+  {
+    "id": 94,
+    "x": 0.6678102263390594,
+    "y": -0.7443315804108908,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de le plan national, ce programme développe des actions de maternité. Il s adresse à les adultes en reconv..."
+  },
+  {
+    "id": 60,
+    "x": 0.6752948081445374,
+    "y": -0.7375479117271178,
+    "km_cluster": 5,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de le plan national, ce programme développe des actions de urgences médicales. Il s adresse à les femmes e..."
+  },
+  {
+    "id": 157,
+    "x": 0.8587019693157267,
+    "y": -0.5124752949101966,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Le projet vise à développer usages numériques en faveur de les bénéficiaires du RSA dans le cadre de le contrat de ville..."
+  },
+  {
+    "id": 123,
+    "x": 0.8024970538674695,
+    "y": -0.5966560806143114,
+    "km_cluster": 2,
+    "lda_topic": 1,
+    "true_theme": "transition_ecologique",
+    "true_label": "Transition écologique",
+    "text_preview": "L action porte sur eau potable en mobilisant économie circulaire. Elle bénéficiera à les seniors grâce à recyclage et ré..."
+  },
+  {
+    "id": 61,
+    "x": 0.7860567761422426,
+    "y": -0.6181543049116979,
+    "km_cluster": 2,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur maladies chroniques en mobilisant médecine de proximité. Elle bénéficiera à les primo-arrivants grâce..."
+  },
+  {
+    "id": 298,
+    "x": 0.8374796167403765,
+    "y": -0.546468564095312,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur lycée professionnel en mobilisant sport jeunesse. Elle bénéficiera à les primo-arrivants grâce à jeun..."
+  },
+  {
+    "id": 69,
+    "x": 0.6364412478612501,
+    "y": -0.7713251830588801,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Dans le cadre de le programme européen, ce programme développe des actions de maladies chroniques. Il s adresse à les bé..."
+  },
+  {
+    "id": 44,
+    "x": 0.9162997349095725,
+    "y": -0.4004931907094639,
+    "km_cluster": 2,
+    "lda_topic": 3,
+    "true_theme": "insertion_professionnelle",
+    "true_label": "Insertion professionnelle",
+    "text_preview": "L action porte sur alternance en mobilisant contrat aidé. Elle bénéficiera à les adultes en reconversion grâce à formati..."
+  },
+  {
+    "id": 153,
+    "x": 0.6995420789640355,
+    "y": -0.7145914075600652,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de le programme européen, ce programme développe des actions de alphabétisation numérique. Il s adresse à ..."
+  },
+  {
+    "id": 89,
+    "x": 0.7700464569133365,
+    "y": 0.6379878166510838,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "Cette initiative a pour but de renforcer médecine de proximité afin de réduire les inégalités. Elle s appuie sur hôpital..."
+  },
+  {
+    "id": 235,
+    "x": 0.6580167987701191,
+    "y": -0.7530032486890907,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Dans le cadre de la stratégie nationale, ce programme développe des actions de aide au logement. Il s adresse à les seni..."
+  },
+  {
+    "id": 181,
+    "x": 0.6664155078826836,
+    "y": -0.7455805596000106,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de le programme européen, ce programme développe des actions de alphabétisation numérique. Il s adresse à ..."
+  },
+  {
+    "id": 179,
+    "x": 0.8928954962064201,
+    "y": -0.4502639590887671,
+    "km_cluster": 4,
+    "lda_topic": 0,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Le projet vise à développer automatisation en faveur de les primo-arrivants dans le cadre de le projet de territoire. Le..."
+  },
+  {
+    "id": 59,
+    "x": 0.8335873259152253,
+    "y": -0.5523876990606363,
+    "km_cluster": 2,
+    "lda_topic": 0,
+    "true_theme": "sante_publique",
+    "true_label": "Santé publique",
+    "text_preview": "L action porte sur maternité en mobilisant urgences médicales. Elle bénéficiera à les adultes en reconversion grâce à hô..."
+  },
+  {
+    "id": 201,
+    "x": 0.7236268357276756,
+    "y": -0.6901914246169331,
+    "km_cluster": 1,
+    "lda_topic": 2,
+    "true_theme": "logement_social",
+    "true_label": "Logement social",
+    "text_preview": "Dans le cadre de le contrat de ville, ce programme développe des actions de allocation logement. Il s adresse à les pers..."
+  },
+  {
+    "id": 199,
+    "x": 0.8063332846433487,
+    "y": 0.5914614392133,
+    "km_cluster": 0,
+    "lda_topic": 4,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Cette initiative a pour but de renforcer compétences numériques afin de réduire les inégalités. Elle s appuie sur télétr..."
+  },
+  {
+    "id": 161,
+    "x": 0.6431643993978158,
+    "y": -0.7657281210372563,
+    "km_cluster": 5,
+    "lda_topic": 5,
+    "true_theme": "inclusion_numerique",
+    "true_label": "Inclusion numérique",
+    "text_preview": "Dans le cadre de le schéma départemental, ce programme développe des actions de intelligence artificielle. Il s adresse ..."
+  },
+  {
+    "id": 271,
+    "x": 0.8621745370730194,
+    "y": -0.5066113575739541,
+    "km_cluster": 3,
+    "lda_topic": 1,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "L action porte sur école inclusive en mobilisant réussite éducative. Elle bénéficiera à les jeunes de 16 à 25 ans grâce ..."
+  },
+  {
+    "id": 251,
+    "x": 0.9176289492556874,
+    "y": -0.39743818574452955,
+    "km_cluster": 3,
+    "lda_topic": 0,
+    "true_theme": "education_jeunesse",
+    "true_label": "Éducation et jeunesse",
+    "text_preview": "Le projet vise à développer réussite éducative en faveur de les familles monoparentales dans le cadre de le contrat de v..."
+  }
+]
