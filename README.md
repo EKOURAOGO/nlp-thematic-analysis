@@ -1,4 +1,4 @@
-# NLP — Analyse Thématique de Politiques Publiques
+# NLP - Analyse Thématique de Politiques Publiques
 
 Pipeline NLP complet appliqué à un corpus de descriptions de projets de politiques publiques françaises (300 documents, 6 thématiques). Combine **TF-IDF**, **clustering KMeans**, **Topic Modeling LDA** et **réduction dimensionnelle (SVD)** pour extraire et visualiser automatiquement les grandes thématiques d'un corpus textuel. Architecture modulaire, typée, avec 23 tests unitaires.
 
@@ -82,8 +82,8 @@ Vectorisation TF-IDF (max 5000 features, n-grammes 1-2)
 
 | Méthode | ARI | Interprétation |
 |---------|-----|----------------|
-| KMeans (k=6) | 0.256 | Modéré — cohérence thématique partielle |
-| LDA (6 topics) | 0.240 | Modéré — topics sémantiquement distincts |
+| KMeans (k=6) | 0.256 | Modéré - cohérence thématique partielle |
+| LDA (6 topics) | 0.240 | Modéré - topics sémantiquement distincts |
 
 **Score de silhouette (k=6) : 0.066**
 
@@ -130,5 +130,5 @@ Sortie attendue : `23 passed`
 
 ## Auteur
 
-**Emmanuel KOURAOGO** — M2 IMSD · Paris-Saclay
+**Emmanuel KOURAOGO** 
 [GitHub](https://github.com/EKOURAOGO) · [Email](mailto:ekouraogo73@gmail.com)
