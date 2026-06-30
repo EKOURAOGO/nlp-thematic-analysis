@@ -1,0 +1,353 @@
+{
+  "n_documents": 300,
+  "n_themes": 6,
+  "evaluation": {
+    "kmeans": {
+      "adjusted_rand_index": 0.2561,
+      "interpretation": "modéré (> 0.2)"
+    },
+    "lda": {
+      "adjusted_rand_index": 0.2395,
+      "interpretation": "modéré (> 0.2)"
+    },
+    "silhouette_k6": 0.0657
+  },
+  "silhouette_scores": {
+    "2": 0.044,
+    "3": 0.0597,
+    "4": 0.0727,
+    "5": 0.0689,
+    "6": 0.0657,
+    "7": 0.0586,
+    "8": 0.0684,
+    "9": 0.0587
+  },
+  "kmeans_top_terms": {
+    "0": [
+      "principalement",
+      "autour",
+      "articule",
+      "articule autour",
+      "intervention",
+      "inégalités appuie",
+      "initiative but",
+      "complètent",
+      "appuie",
+      "réduire inégalités"
+    ],
+    "1": [
+      "logement",
+      "urbaine",
+      "sociale",
+      "requalification",
+      "requalification urbaine",
+      "aide logement",
+      "aide",
+      "habitat dégradé",
+      "dégradé",
+      "habitat"
+    ],
+    "2": [
+      "donnée",
+      "bénéficiera",
+      "atteindre",
+      "priorité donnée",
+      "mobilisant",
+      "inclut",
+      "grâce",
+      "priorité",
+      "porte",
+      "atteindre intercommunal"
+    ],
+    "3": [
+      "scolaire",
+      "jeunesse",
+      "sport jeunesse",
+      "sport",
+      "parentalité",
+      "réussite",
+      "réussite éducative",
+      "éducative",
+      "jeunes",
+      "périscolaire"
+    ],
+    "4": [
+      "améliorer",
+      "prévues incluent",
+      "prévues",
+      "vise",
+      "mobilise",
+      "incluent",
+      "faveur",
+      "renforcer",
+      "professionnelle",
+      "emploi"
+    ],
+    "5": [
+      "suivi intègre",
+      "suivi",
+      "propose",
+      "adresse",
+      "engagent",
+      "locaux engagent",
+      "intègre indicateurs",
+      "indicateurs",
+      "locaux",
+      "intègre"
+    ]
+  },
+  "lda_topics": {
+    "0": [
+      {
+        "word": "renforcer",
+        "score": 0.0347
+      },
+      {
+        "word": "faveur",
+        "score": 0.0327
+      },
+      {
+        "word": "vise",
+        "score": 0.0327
+      },
+      {
+        "word": "mobilise",
+        "score": 0.0327
+      },
+      {
+        "word": "prévues",
+        "score": 0.0327
+      },
+      {
+        "word": "améliorer",
+        "score": 0.0327
+      },
+      {
+        "word": "incluent",
+        "score": 0.0327
+      },
+      {
+        "word": "santé",
+        "score": 0.0245
+      },
+      {
+        "word": "soins",
+        "score": 0.0229
+      },
+      {
+        "word": "proximité",
+        "score": 0.0169
+      }
+    ],
+    "1": [
+      {
+        "word": "porte",
+        "score": 0.0601
+      },
+      {
+        "word": "mobilisant",
+        "score": 0.06
+      },
+      {
+        "word": "atteindre",
+        "score": 0.06
+      },
+      {
+        "word": "inclut",
+        "score": 0.06
+      },
+      {
+        "word": "bénéficiera",
+        "score": 0.06
+      },
+      {
+        "word": "priorité",
+        "score": 0.06
+      },
+      {
+        "word": "grâce",
+        "score": 0.06
+      },
+      {
+        "word": "donnée",
+        "score": 0.06
+      },
+      {
+        "word": "numériques",
+        "score": 0.0169
+      },
+      {
+        "word": "seniors",
+        "score": 0.0146
+      }
+    ],
+    "2": [
+      {
+        "word": "logement",
+        "score": 0.092
+      },
+      {
+        "word": "urbaine",
+        "score": 0.043
+      },
+      {
+        "word": "sociale",
+        "score": 0.0403
+      },
+      {
+        "word": "requalification",
+        "score": 0.0259
+      },
+      {
+        "word": "aide",
+        "score": 0.0247
+      },
+      {
+        "word": "ville",
+        "score": 0.0245
+      },
+      {
+        "word": "expulsion",
+        "score": 0.0234
+      },
+      {
+        "word": "locative",
+        "score": 0.0234
+      },
+      {
+        "word": "politique",
+        "score": 0.0234
+      },
+      {
+        "word": "habitat",
+        "score": 0.0222
+      }
+    ],
+    "3": [
+      {
+        "word": "emploi",
+        "score": 0.0735
+      },
+      {
+        "word": "professionnelle",
+        "score": 0.0572
+      },
+      {
+        "word": "compétences",
+        "score": 0.0286
+      },
+      {
+        "word": "renforcer",
+        "score": 0.0245
+      },
+      {
+        "word": "reconversion",
+        "score": 0.0245
+      },
+      {
+        "word": "retour",
+        "score": 0.0216
+      },
+      {
+        "word": "contrat",
+        "score": 0.0213
+      },
+      {
+        "word": "vise",
+        "score": 0.0192
+      },
+      {
+        "word": "incluent",
+        "score": 0.0192
+      },
+      {
+        "word": "faveur",
+        "score": 0.0192
+      }
+    ],
+    "4": [
+      {
+        "word": "inégalités",
+        "score": 0.0595
+      },
+      {
+        "word": "initiative",
+        "score": 0.057
+      },
+      {
+        "word": "cible",
+        "score": 0.057
+      },
+      {
+        "word": "réduire",
+        "score": 0.057
+      },
+      {
+        "word": "complètent",
+        "score": 0.057
+      },
+      {
+        "word": "intervention",
+        "score": 0.057
+      },
+      {
+        "word": "principalement",
+        "score": 0.057
+      },
+      {
+        "word": "appuie",
+        "score": 0.057
+      },
+      {
+        "word": "articule",
+        "score": 0.057
+      },
+      {
+        "word": "but",
+        "score": 0.057
+      }
+    ],
+    "5": [
+      {
+        "word": "propose",
+        "score": 0.0541
+      },
+      {
+        "word": "développe",
+        "score": 0.0541
+      },
+      {
+        "word": "engagent",
+        "score": 0.0541
+      },
+      {
+        "word": "adresse",
+        "score": 0.0541
+      },
+      {
+        "word": "suivi",
+        "score": 0.0541
+      },
+      {
+        "word": "indicateurs",
+        "score": 0.0541
+      },
+      {
+        "word": "locaux",
+        "score": 0.0541
+      },
+      {
+        "word": "intègre",
+        "score": 0.0541
+      },
+      {
+        "word": "numérique",
+        "score": 0.012
+      },
+      {
+        "word": "personnes",
+        "score": 0.0106
+      }
+    ]
+  }
+}
