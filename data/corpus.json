@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 50,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Dans le cadre de le schéma départemental, ce programme développe des actions de dispositif emploi. Il s adresse à les travailleurs peu qualifiés et propose compétences. Les partenaires locaux s engagent à mettre en oeuvre alternance et certification professionnelle. Le suivi intègre des indicateurs sur retour à l emploi et employabilité."
+  },
+  {
+    "id": 229,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Cette initiative a pour but de renforcer mal logement afin de réduire les inégalités. Elle s appuie sur quartiers prioritaires et cible principalement les jeunes de 16 à 25 ans. Le dispositif s articule autour de allocation logement et de habitat dégradé. Des actions de HLM complètent l intervention sur métropolitain."
+  },
+  {
+    "id": 227,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Dans le cadre de le plan national, ce programme développe des actions de habitat dégradé. Il s adresse à les familles monoparentales et propose rénovation urbaine. Les partenaires locaux s engagent à mettre en oeuvre politique de la ville et loyers abordables. Le suivi intègre des indicateurs sur requalification urbaine et résidence sociale."
+  },
+  {
+    "id": 79,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de le plan national, ce programme développe des actions de cancer. Il s adresse à les personnes en situation de handicap et propose remboursement des soins. Les partenaires locaux s engagent à mettre en oeuvre épidémiologie et urgences médicales. Le suivi intègre des indicateurs sur hôpital public et maladies chroniques."
+  },
+  {
+    "id": 78,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de le schéma départemental, ce programme développe des actions de sécurité sociale. Il s adresse à les personnes âgées et propose médecine de proximité. Les partenaires locaux s engagent à mettre en oeuvre bien-être et obésité. Le suivi intègre des indicateurs sur pathologies et remboursement des soins."
+  },
+  {
+    "id": 18,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Cette initiative a pour but de renforcer formation professionnelle afin de réduire les inégalités. Elle s appuie sur reconversion professionnelle et cible principalement les jeunes de 16 à 25 ans. Le dispositif s articule autour de bilan de compétences et de alternance. Des actions de accompagnement emploi complètent l intervention sur intercommunal."
+  },
+  {
+    "id": 66,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Cette initiative a pour but de renforcer urgences médicales afin de réduire les inégalités. Elle s appuie sur vaccination et cible principalement les personnes âgées. Le dispositif s articule autour de accès aux soins et de hôpital public. Des actions de bien-être complètent l intervention sur périurbain."
+  },
+  {
+    "id": 270,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Cette initiative a pour but de renforcer sport jeunesse afin de réduire les inégalités. Elle s appuie sur école inclusive et cible principalement les enfants issus de milieux défavorisés. Le dispositif s articule autour de service civique et de égalité des chances. Des actions de lycée professionnel complètent l intervention sur périurbain."
+  },
+  {
+    "id": 274,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Cette initiative a pour but de renforcer égalité des chances afin de réduire les inégalités. Elle s appuie sur réussite éducative et cible principalement les enfants issus de milieux défavorisés. Le dispositif s articule autour de jeunes en difficulté et de citoyenneté. Des actions de décrochage scolaire complètent l intervention sur urbain."
+  },
+  {
+    "id": 49,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer dispositif emploi en faveur de les enfants issus de milieux défavorisés dans le cadre de la stratégie nationale. Les actions prévues incluent reconversion professionnelle et compétences. L objectif est d améliorer insertion sur le territoire urbain. Ce dispositif mobilise également certification professionnelle pour renforcer apprentissage."
+  },
+  {
+    "id": 85,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur médecine de proximité en mobilisant santé mentale. Elle bénéficiera à les personnes âgées grâce à cancer et promotion de la santé. Le programme inclut également pathologies pour atteindre les objectifs. Sur le territoire périurbain, la priorité est donnée à bien-être."
+  },
+  {
+    "id": 133,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Le projet vise à développer énergie renouvelable en faveur de les personnes âgées dans le cadre de le projet de territoire. Les actions prévues incluent réduction des émissions et solaire. L objectif est d améliorer pesticides sur le territoire urbain. Ce dispositif mobilise également eau potable pour renforcer zones naturelles protégées."
+  },
+  {
+    "id": 41,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer formation professionnelle en faveur de les bénéficiaires du RSA dans le cadre de le programme européen. Les actions prévues incluent reconversion professionnelle et retour à l emploi. L objectif est d améliorer missions locales sur le territoire métropolitain. Ce dispositif mobilise également demandeurs d emploi pour renforcer chômage longue durée."
+  },
+  {
+    "id": 121,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de la convention territoriale, ce programme développe des actions de économie circulaire. Il s adresse à les seniors et propose qualité de l air. Les partenaires locaux s engagent à mettre en oeuvre agriculture biologique et rénovation énergétique. Le suivi intègre des indicateurs sur pesticides et eau potable."
+  },
+  {
+    "id": 112,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de isolation thermique. Il s adresse à les personnes âgées et propose solaire. Les partenaires locaux s engagent à mettre en oeuvre recyclage et écologie. Le suivi intègre des indicateurs sur qualité de l air et zones naturelles protégées."
+  },
+  {
+    "id": 32,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "L action porte sur alternance en mobilisant demandeurs d emploi. Elle bénéficiera à les seniors grâce à insertion et retour à l emploi. Le programme inclut également employabilité pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à reconversion professionnelle."
+  },
+  {
+    "id": 203,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Dans le cadre de la convention territoriale, ce programme développe des actions de résidence sociale. Il s adresse à les adultes en reconversion et propose HLM. Les partenaires locaux s engagent à mettre en oeuvre logement social et accès au logement. Le suivi intègre des indicateurs sur relogement et allocation logement."
+  },
+  {
+    "id": 244,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Cette initiative a pour but de renforcer aide au logement afin de réduire les inégalités. Elle s appuie sur logement social et cible principalement les travailleurs peu qualifiés. Le dispositif s articule autour de bail solidaire et de loyers abordables. Des actions de quartiers prioritaires complètent l intervention sur urbain."
+  },
+  {
+    "id": 212,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur mal logement en mobilisant quartiers prioritaires. Elle bénéficiera à les bénéficiaires du RSA grâce à sans-abri et loyers abordables. Le programme inclut également expulsion locative pour atteindre les objectifs. Sur le territoire métropolitain, la priorité est donnée à hébergement urgence."
+  },
+  {
+    "id": 156,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de la politique régionale, ce programme développe des actions de télétravail. Il s adresse à les travailleurs peu qualifiés et propose compétences numériques. Les partenaires locaux s engagent à mettre en oeuvre formation digitale et seniors numériques. Le suivi intègre des indicateurs sur cybersécurité et e-administration."
+  },
+  {
+    "id": 152,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de le plan national, ce programme développe des actions de compétences numériques. Il s adresse à les familles monoparentales et propose intelligence artificielle. Les partenaires locaux s engagent à mettre en oeuvre médiation numérique et données personnelles. Le suivi intègre des indicateurs sur dématérialisation et alphabétisation numérique."
+  },
+  {
+    "id": 296,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de le plan national, ce programme développe des actions de périscolaire. Il s adresse à les jeunes de 16 à 25 ans et propose inégalités scolaires. Les partenaires locaux s engagent à mettre en oeuvre parentalité et méthodes pédagogiques. Le suivi intègre des indicateurs sur jeunes en difficulté et réussite éducative."
+  },
+  {
+    "id": 76,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer épidémiologie en faveur de les femmes en situation de précarité dans le cadre de la convention territoriale. Les actions prévues incluent hôpital public et remboursement des soins. L objectif est d améliorer obésité sur le territoire urbain. Ce dispositif mobilise également diabète pour renforcer maternité."
+  },
+  {
+    "id": 19,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Cette initiative a pour but de renforcer demandeurs d emploi afin de réduire les inégalités. Elle s appuie sur dispositif emploi et cible principalement les familles monoparentales. Le dispositif s articule autour de missions locales et de qualification. Des actions de retour à l emploi complètent l intervention sur intercommunal."
+  },
+  {
+    "id": 124,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "L action porte sur décarbonation en mobilisant recyclage. Elle bénéficiera à les travailleurs peu qualifiés grâce à pesticides et qualité de l air. Le programme inclut également agriculture biologique pour atteindre les objectifs. Sur le territoire métropolitain, la priorité est donnée à zones naturelles protégées."
+  },
+  {
+    "id": 46,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "L action porte sur insertion en mobilisant qualification. Elle bénéficiera à les bénéficiaires du RSA grâce à reconversion professionnelle et formation professionnelle. Le programme inclut également employabilité pour atteindre les objectifs. Sur le territoire départemental, la priorité est donnée à bilan de compétences."
+  },
+  {
+    "id": 65,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer urgences médicales en faveur de les seniors dans le cadre de la stratégie nationale. Les actions prévues incluent maladies chroniques et cancer. L objectif est d améliorer prévention sanitaire sur le territoire rural. Ce dispositif mobilise également bien-être pour renforcer sécurité sociale."
+  },
+  {
+    "id": 4,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer chômage longue durée en faveur de les primo-arrivants dans le cadre de le plan national. Les actions prévues incluent apprentissage et reconversion professionnelle. L objectif est d améliorer accompagnement emploi sur le territoire périurbain. Ce dispositif mobilise également alternance pour renforcer retour à l emploi."
+  },
+  {
+    "id": 255,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur lycée professionnel en mobilisant vie associative. Elle bénéficiera à les primo-arrivants grâce à soutien scolaire et parentalité. Le programme inclut également périscolaire pour atteindre les objectifs. Sur le territoire métropolitain, la priorité est donnée à décrochage scolaire."
+  },
+  {
+    "id": 82,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur accès aux soins en mobilisant pathologies. Elle bénéficiera à les seniors grâce à cancer et sécurité sociale. Le programme inclut également maladies chroniques pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à remboursement des soins."
+  },
+  {
+    "id": 134,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de biodiversité. Il s adresse à les primo-arrivants et propose zones naturelles protégées. Les partenaires locaux s engagent à mettre en oeuvre recyclage et écologie. Le suivi intègre des indicateurs sur décarbonation et solaire."
+  },
+  {
+    "id": 80,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur dépistage en mobilisant remboursement des soins. Elle bénéficiera à les habitants des zones rurales grâce à santé mentale et vaccination. Le programme inclut également pathologies pour atteindre les objectifs. Sur le territoire urbain, la priorité est donnée à cancer."
+  },
+  {
+    "id": 206,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Dans le cadre de le schéma départemental, ce programme développe des actions de habitat dégradé. Il s adresse à les enfants issus de milieux défavorisés et propose requalification urbaine. Les partenaires locaux s engagent à mettre en oeuvre rénovation urbaine et allocation logement. Le suivi intègre des indicateurs sur aide au logement et accès au logement."
+  },
+  {
+    "id": 183,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur accès internet en mobilisant services en ligne. Elle bénéficiera à les femmes en situation de précarité grâce à outils informatiques et dématérialisation. Le programme inclut également e-administration pour atteindre les objectifs. Sur le territoire périurbain, la priorité est donnée à zones blanches."
+  },
+  {
+    "id": 14,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Dans le cadre de la politique régionale, ce programme développe des actions de contrat aidé. Il s adresse à les femmes en situation de précarité et propose demandeurs d emploi. Les partenaires locaux s engagent à mettre en oeuvre compétences et bilan de compétences. Le suivi intègre des indicateurs sur insertion et qualification."
+  },
+  {
+    "id": 196,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Cette initiative a pour but de renforcer données personnelles afin de réduire les inégalités. Elle s appuie sur usages numériques et cible principalement les personnes en situation de handicap. Le dispositif s articule autour de seniors numériques et de accès internet. Des actions de alphabétisation numérique complètent l intervention sur urbain."
+  },
+  {
+    "id": 259,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Cette initiative a pour but de renforcer orientation scolaire afin de réduire les inégalités. Elle s appuie sur inégalités scolaires et cible principalement les primo-arrivants. Le dispositif s articule autour de périscolaire et de lycée professionnel. Des actions de service civique complètent l intervention sur intercommunal."
+  },
+  {
+    "id": 87,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer déserts médicaux en faveur de les primo-arrivants dans le cadre de le projet de territoire. Les actions prévues incluent vaccination et médecine de proximité. L objectif est d améliorer obésité sur le territoire régional. Ce dispositif mobilise également pathologies pour renforcer maternité."
+  },
+  {
+    "id": 243,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer HLM en faveur de les femmes en situation de précarité dans le cadre de le projet de territoire. Les actions prévues incluent requalification urbaine et sans-abri. L objectif est d améliorer quartiers prioritaires sur le territoire régional. Ce dispositif mobilise également mixité sociale pour renforcer aide au logement."
+  },
+  {
+    "id": 285,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de la stratégie nationale, ce programme développe des actions de lycée professionnel. Il s adresse à les jeunes de 16 à 25 ans et propose périscolaire. Les partenaires locaux s engagent à mettre en oeuvre orientation scolaire et parentalité. Le suivi intègre des indicateurs sur réussite éducative et école inclusive."
+  },
+  {
+    "id": 187,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de automatisation. Il s adresse à les adultes en reconversion et propose dématérialisation. Les partenaires locaux s engagent à mettre en oeuvre médiation numérique et usages numériques. Le suivi intègre des indicateurs sur accès internet et outils informatiques."
+  },
+  {
+    "id": 237,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer requalification urbaine en faveur de les habitants des zones rurales dans le cadre de le schéma départemental. Les actions prévues incluent loyers abordables et allocation logement. L objectif est d améliorer aide au logement sur le territoire régional. Ce dispositif mobilise également habitat dégradé pour renforcer expulsion locative."
+  },
+  {
+    "id": 226,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de sans-abri. Il s adresse à les personnes âgées et propose aide au logement. Les partenaires locaux s engagent à mettre en oeuvre HLM et politique de la ville. Le suivi intègre des indicateurs sur expulsion locative et relogement."
+  },
+  {
+    "id": 172,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur dématérialisation en mobilisant zones blanches. Elle bénéficiera à les seniors grâce à télétravail et formation digitale. Le programme inclut également usages numériques pour atteindre les objectifs. Sur le territoire départemental, la priorité est donnée à compétences numériques."
+  },
+  {
+    "id": 281,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Le projet vise à développer protection enfance en faveur de les bénéficiaires du RSA dans le cadre de le plan national. Les actions prévues incluent parentalité et méthodes pédagogiques. L objectif est d améliorer égalité des chances sur le territoire intercommunal. Ce dispositif mobilise également réussite éducative pour renforcer décrochage scolaire."
+  },
+  {
+    "id": 230,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer habitat dégradé en faveur de les seniors dans le cadre de la convention territoriale. Les actions prévues incluent résidence sociale et rénovation urbaine. L objectif est d améliorer aide au logement sur le territoire intercommunal. Ce dispositif mobilise également hébergement urgence pour renforcer sans-abri."
+  },
+  {
+    "id": 283,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de le projet de territoire, ce programme développe des actions de méthodes pédagogiques. Il s adresse à les habitants des zones rurales et propose jeunes en difficulté. Les partenaires locaux s engagent à mettre en oeuvre sport jeunesse et numérique éducatif. Le suivi intègre des indicateurs sur école inclusive et soutien scolaire."
+  },
+  {
+    "id": 264,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de le programme européen, ce programme développe des actions de périscolaire. Il s adresse à les familles monoparentales et propose égalité des chances. Les partenaires locaux s engagent à mettre en oeuvre parentalité et jeunes en difficulté. Le suivi intègre des indicateurs sur service civique et sport jeunesse."
+  },
+  {
+    "id": 135,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "L action porte sur éolien en mobilisant eau potable. Elle bénéficiera à les personnes en situation de handicap grâce à économie circulaire et décarbonation. Le programme inclut également véhicules électriques pour atteindre les objectifs. Sur le territoire périurbain, la priorité est donnée à solaire."
+  },
+  {
+    "id": 93,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de la stratégie nationale, ce programme développe des actions de accès aux soins. Il s adresse à les familles monoparentales et propose vaccination. Les partenaires locaux s engagent à mettre en oeuvre maternité et diabète. Le suivi intègre des indicateurs sur urgences médicales et cancer."
+  },
+  {
+    "id": 294,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur service civique en mobilisant sport jeunesse. Elle bénéficiera à les seniors grâce à parentalité et soutien scolaire. Le programme inclut également jeunes en difficulté pour atteindre les objectifs. Sur le territoire métropolitain, la priorité est donnée à décrochage scolaire."
+  },
+  {
+    "id": 155,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de le schéma départemental, ce programme développe des actions de formation digitale. Il s adresse à les adultes en reconversion et propose télétravail. Les partenaires locaux s engagent à mettre en oeuvre usages numériques et cybersécurité. Le suivi intègre des indicateurs sur médiation numérique et outils informatiques."
+  },
+  {
+    "id": 52,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de la politique régionale, ce programme développe des actions de maladies chroniques. Il s adresse à les primo-arrivants et propose dépistage. Les partenaires locaux s engagent à mettre en oeuvre promotion de la santé et bien-être. Le suivi intègre des indicateurs sur vaccination et sécurité sociale."
+  },
+  {
+    "id": 167,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Cette initiative a pour but de renforcer cybersécurité afin de réduire les inégalités. Elle s appuie sur e-administration et cible principalement les enfants issus de milieux défavorisés. Le dispositif s articule autour de intelligence artificielle et de compétences numériques. Des actions de télétravail complètent l intervention sur urbain."
+  },
+  {
+    "id": 272,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de le plan national, ce programme développe des actions de jeunes en difficulté. Il s adresse à les travailleurs peu qualifiés et propose école inclusive. Les partenaires locaux s engagent à mettre en oeuvre périscolaire et protection enfance. Le suivi intègre des indicateurs sur citoyenneté et sport jeunesse."
+  },
+  {
+    "id": 164,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Le projet vise à développer outils informatiques en faveur de les adultes en reconversion dans le cadre de la stratégie nationale. Les actions prévues incluent intelligence artificielle et cybersécurité. L objectif est d améliorer automatisation sur le territoire intercommunal. Ce dispositif mobilise également compétences numériques pour renforcer formation digitale."
+  },
+  {
+    "id": 15,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Dans le cadre de le programme européen, ce programme développe des actions de reconversion professionnelle. Il s adresse à les primo-arrivants et propose chômage longue durée. Les partenaires locaux s engagent à mettre en oeuvre accompagnement emploi et employabilité. Le suivi intègre des indicateurs sur alternance et retour à l emploi."
+  },
+  {
+    "id": 261,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur méthodes pédagogiques en mobilisant périscolaire. Elle bénéficiera à les bénéficiaires du RSA grâce à parentalité et inégalités scolaires. Le programme inclut également sport jeunesse pour atteindre les objectifs. Sur le territoire périurbain, la priorité est donnée à service civique."
+  },
+  {
+    "id": 214,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Dans le cadre de le schéma départemental, ce programme développe des actions de politique de la ville. Il s adresse à les bénéficiaires du RSA et propose loyers abordables. Les partenaires locaux s engagent à mettre en oeuvre mal logement et sans-abri. Le suivi intègre des indicateurs sur HLM et rénovation urbaine."
+  },
+  {
+    "id": 233,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur politique de la ville en mobilisant relogement. Elle bénéficiera à les habitants des zones rurales grâce à habitat dégradé et sans-abri. Le programme inclut également quartiers prioritaires pour atteindre les objectifs. Sur le territoire départemental, la priorité est donnée à loyers abordables."
+  },
+  {
+    "id": 45,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Cette initiative a pour but de renforcer alternance afin de réduire les inégalités. Elle s appuie sur reconversion professionnelle et cible principalement les personnes en situation de handicap. Le dispositif s articule autour de compétences et de contrat aidé. Des actions de formation professionnelle complètent l intervention sur périurbain."
+  },
+  {
+    "id": 120,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "L action porte sur isolation thermique en mobilisant pesticides. Elle bénéficiera à les jeunes de 16 à 25 ans grâce à décarbonation et agriculture biologique. Le programme inclut également biodiversité pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à développement durable."
+  },
+  {
+    "id": 130,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de le programme européen, ce programme développe des actions de énergie renouvelable. Il s adresse à les jeunes de 16 à 25 ans et propose recyclage. Les partenaires locaux s engagent à mettre en oeuvre écologie et agriculture biologique. Le suivi intègre des indicateurs sur isolation thermique et empreinte carbone."
+  },
+  {
+    "id": 143,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Cette initiative a pour but de renforcer éolien afin de réduire les inégalités. Elle s appuie sur véhicules électriques et cible principalement les bénéficiaires du RSA. Le dispositif s articule autour de pesticides et de eau potable. Des actions de qualité de l air complètent l intervention sur régional."
+  },
+  {
+    "id": 260,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de citoyenneté. Il s adresse à les habitants des zones rurales et propose vie associative. Les partenaires locaux s engagent à mettre en oeuvre sport jeunesse et parentalité. Le suivi intègre des indicateurs sur bourses étudiantes et égalité des chances."
+  },
+  {
+    "id": 149,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de la stratégie nationale, ce programme développe des actions de réduction des émissions. Il s adresse à les travailleurs peu qualifiés et propose eau potable. Les partenaires locaux s engagent à mettre en oeuvre énergie renouvelable et qualité de l air. Le suivi intègre des indicateurs sur biodiversité et développement durable."
+  },
+  {
+    "id": 2,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Cette initiative a pour but de renforcer demandeurs d emploi afin de réduire les inégalités. Elle s appuie sur contrat aidé et cible principalement les femmes en situation de précarité. Le dispositif s articule autour de formation professionnelle et de bilan de compétences. Des actions de retour à l emploi complètent l intervention sur intercommunal."
+  },
+  {
+    "id": 225,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur politique de la ville en mobilisant loyers abordables. Elle bénéficiera à les primo-arrivants grâce à aide au logement et mal logement. Le programme inclut également relogement pour atteindre les objectifs. Sur le territoire départemental, la priorité est donnée à allocation logement."
+  },
+  {
+    "id": 67,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer bien-être en faveur de les enfants issus de milieux défavorisés dans le cadre de la politique régionale. Les actions prévues incluent hôpital public et promotion de la santé. L objectif est d améliorer obésité sur le territoire périurbain. Ce dispositif mobilise également déserts médicaux pour renforcer médecine de proximité."
+  },
+  {
+    "id": 224,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur aide au logement en mobilisant mixité sociale. Elle bénéficiera à les bénéficiaires du RSA grâce à résidence sociale et relogement. Le programme inclut également expulsion locative pour atteindre les objectifs. Sur le territoire périurbain, la priorité est donnée à mal logement."
+  },
+  {
+    "id": 266,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Cette initiative a pour but de renforcer décrochage scolaire afin de réduire les inégalités. Elle s appuie sur protection enfance et cible principalement les jeunes de 16 à 25 ans. Le dispositif s articule autour de soutien scolaire et de lycée professionnel. Des actions de réussite éducative complètent l intervention sur intercommunal."
+  },
+  {
+    "id": 10,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "L action porte sur retour à l emploi en mobilisant qualification. Elle bénéficiera à les habitants des zones rurales grâce à contrat aidé et formation professionnelle. Le programme inclut également accompagnement emploi pour atteindre les objectifs. Sur le territoire rural, la priorité est donnée à alternance."
+  },
+  {
+    "id": 62,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer urgences médicales en faveur de les travailleurs peu qualifiés dans le cadre de la stratégie nationale. Les actions prévues incluent promotion de la santé et accès aux soins. L objectif est d améliorer dépistage sur le territoire métropolitain. Ce dispositif mobilise également obésité pour renforcer diabète."
+  },
+  {
+    "id": 263,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Cette initiative a pour but de renforcer soutien scolaire afin de réduire les inégalités. Elle s appuie sur orientation scolaire et cible principalement les personnes âgées. Le dispositif s articule autour de citoyenneté et de lycée professionnel. Des actions de numérique éducatif complètent l intervention sur périurbain."
+  },
+  {
+    "id": 258,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de la politique régionale, ce programme développe des actions de égalité des chances. Il s adresse à les habitants des zones rurales et propose numérique éducatif. Les partenaires locaux s engagent à mettre en oeuvre orientation scolaire et périscolaire. Le suivi intègre des indicateurs sur inégalités scolaires et protection enfance."
+  },
+  {
+    "id": 207,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer expulsion locative en faveur de les bénéficiaires du RSA dans le cadre de la convention territoriale. Les actions prévues incluent bail solidaire et sans-abri. L objectif est d améliorer résidence sociale sur le territoire métropolitain. Ce dispositif mobilise également loyers abordables pour renforcer requalification urbaine."
+  },
+  {
+    "id": 91,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer sécurité sociale en faveur de les travailleurs peu qualifiés dans le cadre de la politique régionale. Les actions prévues incluent bien-être et hôpital public. L objectif est d améliorer diabète sur le territoire métropolitain. Ce dispositif mobilise également maternité pour renforcer médecine de proximité."
+  },
+  {
+    "id": 99,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur prévention sanitaire en mobilisant médecine de proximité. Elle bénéficiera à les seniors grâce à vaccination et sécurité sociale. Le programme inclut également pathologies pour atteindre les objectifs. Sur le territoire départemental, la priorité est donnée à hôpital public."
+  },
+  {
+    "id": 222,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Dans le cadre de le projet de territoire, ce programme développe des actions de rénovation urbaine. Il s adresse à les familles monoparentales et propose politique de la ville. Les partenaires locaux s engagent à mettre en oeuvre allocation logement et habitat dégradé. Le suivi intègre des indicateurs sur loyers abordables et résidence sociale."
+  },
+  {
+    "id": 40,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "L action porte sur employabilité en mobilisant apprentissage. Elle bénéficiera à les femmes en situation de précarité grâce à dispositif emploi et certification professionnelle. Le programme inclut également demandeurs d emploi pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à missions locales."
+  },
+  {
+    "id": 108,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Le projet vise à développer zones naturelles protégées en faveur de les travailleurs peu qualifiés dans le cadre de le plan national. Les actions prévues incluent décarbonation et pesticides. L objectif est d améliorer écologie sur le territoire rural. Ce dispositif mobilise également solaire pour renforcer eau potable."
+  },
+  {
+    "id": 51,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur santé mentale en mobilisant sécurité sociale. Elle bénéficiera à les enfants issus de milieux défavorisés grâce à diabète et obésité. Le programme inclut également promotion de la santé pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à vaccination."
+  },
+  {
+    "id": 111,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Le projet vise à développer isolation thermique en faveur de les travailleurs peu qualifiés dans le cadre de la stratégie nationale. Les actions prévues incluent éolien et eau potable. L objectif est d améliorer mobilité durable sur le territoire intercommunal. Ce dispositif mobilise également développement durable pour renforcer biodiversité."
+  },
+  {
+    "id": 246,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur hébergement urgence en mobilisant sans-abri. Elle bénéficiera à les primo-arrivants grâce à quartiers prioritaires et expulsion locative. Le programme inclut également requalification urbaine pour atteindre les objectifs. Sur le territoire urbain, la priorité est donnée à rénovation urbaine."
+  },
+  {
+    "id": 256,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur lycée professionnel en mobilisant bourses étudiantes. Elle bénéficiera à les bénéficiaires du RSA grâce à orientation scolaire et citoyenneté. Le programme inclut également périscolaire pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à réussite éducative."
+  },
+  {
+    "id": 48,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Dans le cadre de le schéma départemental, ce programme développe des actions de alternance. Il s adresse à les enfants issus de milieux défavorisés et propose chômage longue durée. Les partenaires locaux s engagent à mettre en oeuvre formation professionnelle et retour à l emploi. Le suivi intègre des indicateurs sur insertion et compétences."
+  },
+  {
+    "id": 213,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer HLM en faveur de les primo-arrivants dans le cadre de le projet de territoire. Les actions prévues incluent politique de la ville et rénovation urbaine. L objectif est d améliorer expulsion locative sur le territoire départemental. Ce dispositif mobilise également loyers abordables pour renforcer sans-abri."
+  },
+  {
+    "id": 159,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de le plan national, ce programme développe des actions de formation digitale. Il s adresse à les enfants issus de milieux défavorisés et propose usages numériques. Les partenaires locaux s engagent à mettre en oeuvre e-administration et fracture numérique. Le suivi intègre des indicateurs sur seniors numériques et accès internet."
+  },
+  {
+    "id": 47,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Dans le cadre de le plan national, ce programme développe des actions de demandeurs d emploi. Il s adresse à les jeunes de 16 à 25 ans et propose chômage longue durée. Les partenaires locaux s engagent à mettre en oeuvre alternance et employabilité. Le suivi intègre des indicateurs sur certification professionnelle et compétences."
+  },
+  {
+    "id": 209,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Dans le cadre de le programme européen, ce programme développe des actions de quartiers prioritaires. Il s adresse à les personnes en situation de handicap et propose mixité sociale. Les partenaires locaux s engagent à mettre en oeuvre hébergement urgence et allocation logement. Le suivi intègre des indicateurs sur requalification urbaine et aide au logement."
+  },
+  {
+    "id": 12,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "L action porte sur qualification en mobilisant chômage longue durée. Elle bénéficiera à les bénéficiaires du RSA grâce à missions locales et insertion. Le programme inclut également compétences pour atteindre les objectifs. Sur le territoire rural, la priorité est donnée à contrat aidé."
+  },
+  {
+    "id": 293,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de la convention territoriale, ce programme développe des actions de sport jeunesse. Il s adresse à les personnes en situation de handicap et propose citoyenneté. Les partenaires locaux s engagent à mettre en oeuvre protection enfance et inégalités scolaires. Le suivi intègre des indicateurs sur décrochage scolaire et réussite éducative."
+  },
+  {
+    "id": 103,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "L action porte sur développement durable en mobilisant écologie. Elle bénéficiera à les bénéficiaires du RSA grâce à solaire et recyclage. Le programme inclut également qualité de l air pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à rénovation énergétique."
+  },
+  {
+    "id": 39,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "L action porte sur certification professionnelle en mobilisant chômage longue durée. Elle bénéficiera à les habitants des zones rurales grâce à bilan de compétences et contrat aidé. Le programme inclut également formation professionnelle pour atteindre les objectifs. Sur le territoire urbain, la priorité est donnée à retour à l emploi."
+  },
+  {
+    "id": 175,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur médiation numérique en mobilisant formation digitale. Elle bénéficiera à les travailleurs peu qualifiés grâce à e-administration et intelligence artificielle. Le programme inclut également données personnelles pour atteindre les objectifs. Sur le territoire urbain, la priorité est donnée à seniors numériques."
+  },
+  {
+    "id": 119,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Le projet vise à développer mobilité durable en faveur de les personnes âgées dans le cadre de le plan national. Les actions prévues incluent rénovation énergétique et solaire. L objectif est d améliorer empreinte carbone sur le territoire rural. Ce dispositif mobilise également zones naturelles protégées pour renforcer pesticides."
+  },
+  {
+    "id": 299,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Cette initiative a pour but de renforcer orientation scolaire afin de réduire les inégalités. Elle s appuie sur parentalité et cible principalement les personnes en situation de handicap. Le dispositif s articule autour de protection enfance et de sport jeunesse. Des actions de décrochage scolaire complètent l intervention sur départemental."
+  },
+  {
+    "id": 26,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Cette initiative a pour but de renforcer accompagnement emploi afin de réduire les inégalités. Elle s appuie sur employabilité et cible principalement les personnes en situation de handicap. Le dispositif s articule autour de dispositif emploi et de contrat aidé. Des actions de retour à l emploi complètent l intervention sur rural."
+  },
+  {
+    "id": 128,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Cette initiative a pour but de renforcer développement durable afin de réduire les inégalités. Elle s appuie sur véhicules électriques et cible principalement les bénéficiaires du RSA. Le dispositif s articule autour de biodiversité et de écologie. Des actions de éolien complètent l intervention sur départemental."
+  },
+  {
+    "id": 136,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de qualité de l air. Il s adresse à les adultes en reconversion et propose pesticides. Les partenaires locaux s engagent à mettre en oeuvre eau potable et économie circulaire. Le suivi intègre des indicateurs sur zones naturelles protégées et véhicules électriques."
+  },
+  {
+    "id": 277,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur sport jeunesse en mobilisant citoyenneté. Elle bénéficiera à les personnes en situation de handicap grâce à décrochage scolaire et bourses étudiantes. Le programme inclut également égalité des chances pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à lycée professionnel."
+  },
+  {
+    "id": 241,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Cette initiative a pour but de renforcer expulsion locative afin de réduire les inégalités. Elle s appuie sur accès au logement et cible principalement les travailleurs peu qualifiés. Le dispositif s articule autour de mal logement et de HLM. Des actions de quartiers prioritaires complètent l intervention sur rural."
+  },
+  {
+    "id": 21,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "L action porte sur insertion en mobilisant accompagnement emploi. Elle bénéficiera à les seniors grâce à employabilité et bilan de compétences. Le programme inclut également alternance pour atteindre les objectifs. Sur le territoire rural, la priorité est donnée à qualification."
+  },
+  {
+    "id": 287,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de le projet de territoire, ce programme développe des actions de orientation scolaire. Il s adresse à les enfants issus de milieux défavorisés et propose périscolaire. Les partenaires locaux s engagent à mettre en oeuvre citoyenneté et jeunes en difficulté. Le suivi intègre des indicateurs sur égalité des chances et numérique éducatif."
+  },
+  {
+    "id": 3,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer compétences en faveur de les familles monoparentales dans le cadre de la stratégie nationale. Les actions prévues incluent contrat aidé et reconversion professionnelle. L objectif est d améliorer qualification sur le territoire périurbain. Ce dispositif mobilise également insertion pour renforcer apprentissage."
+  },
+  {
+    "id": 295,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur école inclusive en mobilisant inégalités scolaires. Elle bénéficiera à les personnes en situation de handicap grâce à soutien scolaire et service civique. Le programme inclut également méthodes pédagogiques pour atteindre les objectifs. Sur le territoire périurbain, la priorité est donnée à jeunes en difficulté."
+  },
+  {
+    "id": 115,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "L action porte sur développement durable en mobilisant agriculture biologique. Elle bénéficiera à les habitants des zones rurales grâce à empreinte carbone et décarbonation. Le programme inclut également énergie renouvelable pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à eau potable."
+  },
+  {
+    "id": 81,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer dépistage en faveur de les enfants issus de milieux défavorisés dans le cadre de le programme européen. Les actions prévues incluent sécurité sociale et médecine de proximité. L objectif est d améliorer épidémiologie sur le territoire périurbain. Ce dispositif mobilise également vaccination pour renforcer maladies chroniques."
+  },
+  {
+    "id": 13,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Cette initiative a pour but de renforcer dispositif emploi afin de réduire les inégalités. Elle s appuie sur certification professionnelle et cible principalement les adultes en reconversion. Le dispositif s articule autour de retour à l emploi et de accompagnement emploi. Des actions de formation professionnelle complètent l intervention sur départemental."
+  },
+  {
+    "id": 6,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer insertion en faveur de les adultes en reconversion dans le cadre de la convention territoriale. Les actions prévues incluent missions locales et dispositif emploi. L objectif est d améliorer reconversion professionnelle sur le territoire départemental. Ce dispositif mobilise également certification professionnelle pour renforcer retour à l emploi."
+  },
+  {
+    "id": 7,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Dans le cadre de le schéma départemental, ce programme développe des actions de insertion. Il s adresse à les personnes âgées et propose demandeurs d emploi. Les partenaires locaux s engagent à mettre en oeuvre contrat aidé et reconversion professionnelle. Le suivi intègre des indicateurs sur retour à l emploi et compétences."
+  },
+  {
+    "id": 98,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de le projet de territoire, ce programme développe des actions de urgences médicales. Il s adresse à les personnes âgées et propose accès aux soins. Les partenaires locaux s engagent à mettre en oeuvre dépistage et hôpital public. Le suivi intègre des indicateurs sur maladies chroniques et pathologies."
+  },
+  {
+    "id": 88,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de le projet de territoire, ce programme développe des actions de pathologies. Il s adresse à les enfants issus de milieux défavorisés et propose maternité. Les partenaires locaux s engagent à mettre en oeuvre sécurité sociale et accès aux soins. Le suivi intègre des indicateurs sur médecine de proximité et maladies chroniques."
+  },
+  {
+    "id": 122,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "L action porte sur énergie renouvelable en mobilisant décarbonation. Elle bénéficiera à les enfants issus de milieux défavorisés grâce à zones naturelles protégées et isolation thermique. Le programme inclut également biodiversité pour atteindre les objectifs. Sur le territoire régional, la priorité est donnée à développement durable."
+  },
+  {
+    "id": 173,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de la stratégie nationale, ce programme développe des actions de télétravail. Il s adresse à les personnes en situation de handicap et propose données personnelles. Les partenaires locaux s engagent à mettre en oeuvre fracture numérique et services en ligne. Le suivi intègre des indicateurs sur formation digitale et outils informatiques."
+  },
+  {
+    "id": 63,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Cette initiative a pour but de renforcer prévention sanitaire afin de réduire les inégalités. Elle s appuie sur épidémiologie et cible principalement les personnes âgées. Le dispositif s articule autour de sécurité sociale et de bien-être. Des actions de promotion de la santé complètent l intervention sur périurbain."
+  },
+  {
+    "id": 129,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de le plan national, ce programme développe des actions de écologie. Il s adresse à les familles monoparentales et propose énergie renouvelable. Les partenaires locaux s engagent à mettre en oeuvre rénovation énergétique et recyclage. Le suivi intègre des indicateurs sur éolien et décarbonation."
+  },
+  {
+    "id": 280,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Le projet vise à développer décrochage scolaire en faveur de les familles monoparentales dans le cadre de le plan national. Les actions prévues incluent vie associative et parentalité. L objectif est d améliorer service civique sur le territoire rural. Ce dispositif mobilise également sport jeunesse pour renforcer soutien scolaire."
+  },
+  {
+    "id": 142,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Cette initiative a pour but de renforcer agriculture biologique afin de réduire les inégalités. Elle s appuie sur énergie renouvelable et cible principalement les enfants issus de milieux défavorisés. Le dispositif s articule autour de mobilité durable et de recyclage. Des actions de pesticides complètent l intervention sur urbain."
+  },
+  {
+    "id": 292,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de la politique régionale, ce programme développe des actions de réussite éducative. Il s adresse à les familles monoparentales et propose service civique. Les partenaires locaux s engagent à mettre en oeuvre école inclusive et inégalités scolaires. Le suivi intègre des indicateurs sur sport jeunesse et périscolaire."
+  },
+  {
+    "id": 160,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Cette initiative a pour but de renforcer dématérialisation afin de réduire les inégalités. Elle s appuie sur accès internet et cible principalement les bénéficiaires du RSA. Le dispositif s articule autour de seniors numériques et de données personnelles. Des actions de formation digitale complètent l intervention sur périurbain."
+  },
+  {
+    "id": 171,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Le projet vise à développer formation digitale en faveur de les habitants des zones rurales dans le cadre de le plan national. Les actions prévues incluent données personnelles et alphabétisation numérique. L objectif est d améliorer usages numériques sur le territoire départemental. Ce dispositif mobilise également automatisation pour renforcer zones blanches."
+  },
+  {
+    "id": 190,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de la stratégie nationale, ce programme développe des actions de e-administration. Il s adresse à les bénéficiaires du RSA et propose télétravail. Les partenaires locaux s engagent à mettre en oeuvre accès internet et compétences numériques. Le suivi intègre des indicateurs sur formation digitale et alphabétisation numérique."
+  },
+  {
+    "id": 150,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de le projet de territoire, ce programme développe des actions de pesticides. Il s adresse à les familles monoparentales et propose eau potable. Les partenaires locaux s engagent à mettre en oeuvre empreinte carbone et économie circulaire. Le suivi intègre des indicateurs sur écologie et énergie renouvelable."
+  },
+  {
+    "id": 42,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Dans le cadre de la convention territoriale, ce programme développe des actions de apprentissage. Il s adresse à les personnes en situation de handicap et propose retour à l emploi. Les partenaires locaux s engagent à mettre en oeuvre dispositif emploi et alternance. Le suivi intègre des indicateurs sur accompagnement emploi et formation professionnelle."
+  },
+  {
+    "id": 163,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur e-administration en mobilisant données personnelles. Elle bénéficiera à les familles monoparentales grâce à médiation numérique et cybersécurité. Le programme inclut également usages numériques pour atteindre les objectifs. Sur le territoire périurbain, la priorité est donnée à télétravail."
+  },
+  {
+    "id": 154,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Cette initiative a pour but de renforcer alphabétisation numérique afin de réduire les inégalités. Elle s appuie sur e-administration et cible principalement les adultes en reconversion. Le dispositif s articule autour de zones blanches et de outils informatiques. Des actions de compétences numériques complètent l intervention sur rural."
+  },
+  {
+    "id": 55,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer dépistage en faveur de les personnes âgées dans le cadre de la stratégie nationale. Les actions prévues incluent maladies chroniques et prévention sanitaire. L objectif est d améliorer accès aux soins sur le territoire régional. Ce dispositif mobilise également médecine de proximité pour renforcer maternité."
+  },
+  {
+    "id": 279,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de le plan national, ce programme développe des actions de bourses étudiantes. Il s adresse à les bénéficiaires du RSA et propose soutien scolaire. Les partenaires locaux s engagent à mettre en oeuvre sport jeunesse et numérique éducatif. Le suivi intègre des indicateurs sur service civique et orientation scolaire."
+  },
+  {
+    "id": 208,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer mal logement en faveur de les habitants des zones rurales dans le cadre de la stratégie nationale. Les actions prévues incluent loyers abordables et requalification urbaine. L objectif est d améliorer mixité sociale sur le territoire départemental. Ce dispositif mobilise également accès au logement pour renforcer HLM."
+  },
+  {
+    "id": 102,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Le projet vise à développer biodiversité en faveur de les habitants des zones rurales dans le cadre de le contrat de ville. Les actions prévues incluent rénovation énergétique et eau potable. L objectif est d améliorer zones naturelles protégées sur le territoire départemental. Ce dispositif mobilise également développement durable pour renforcer décarbonation."
+  },
+  {
+    "id": 17,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer dispositif emploi en faveur de les travailleurs peu qualifiés dans le cadre de le schéma départemental. Les actions prévues incluent compétences et demandeurs d emploi. L objectif est d améliorer alternance sur le territoire métropolitain. Ce dispositif mobilise également accompagnement emploi pour renforcer bilan de compétences."
+  },
+  {
+    "id": 92,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer remboursement des soins en faveur de les adultes en reconversion dans le cadre de le contrat de ville. Les actions prévues incluent hôpital public et prévention sanitaire. L objectif est d améliorer déserts médicaux sur le territoire intercommunal. Ce dispositif mobilise également médecine de proximité pour renforcer pathologies."
+  },
+  {
+    "id": 232,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer aide au logement en faveur de les bénéficiaires du RSA dans le cadre de le contrat de ville. Les actions prévues incluent HLM et logement social. L objectif est d améliorer résidence sociale sur le territoire métropolitain. Ce dispositif mobilise également habitat dégradé pour renforcer requalification urbaine."
+  },
+  {
+    "id": 144,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Le projet vise à développer zones naturelles protégées en faveur de les adultes en reconversion dans le cadre de le plan national. Les actions prévues incluent développement durable et biodiversité. L objectif est d améliorer réduction des émissions sur le territoire périurbain. Ce dispositif mobilise également recyclage pour renforcer décarbonation."
+  },
+  {
+    "id": 1,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Cette initiative a pour but de renforcer reconversion professionnelle afin de réduire les inégalités. Elle s appuie sur formation professionnelle et cible principalement les enfants issus de milieux défavorisés. Le dispositif s articule autour de missions locales et de apprentissage. Des actions de dispositif emploi complètent l intervention sur régional."
+  },
+  {
+    "id": 84,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Cette initiative a pour but de renforcer déserts médicaux afin de réduire les inégalités. Elle s appuie sur bien-être et cible principalement les travailleurs peu qualifiés. Le dispositif s articule autour de maternité et de pathologies. Des actions de accès aux soins complètent l intervention sur urbain."
+  },
+  {
+    "id": 125,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de le projet de territoire, ce programme développe des actions de économie circulaire. Il s adresse à les personnes en situation de handicap et propose solaire. Les partenaires locaux s engagent à mettre en oeuvre eau potable et rénovation énergétique. Le suivi intègre des indicateurs sur réduction des émissions et agriculture biologique."
+  },
+  {
+    "id": 117,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de le programme européen, ce programme développe des actions de recyclage. Il s adresse à les enfants issus de milieux défavorisés et propose économie circulaire. Les partenaires locaux s engagent à mettre en oeuvre réduction des émissions et empreinte carbone. Le suivi intègre des indicateurs sur qualité de l air et énergie renouvelable."
+  },
+  {
+    "id": 95,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur vaccination en mobilisant remboursement des soins. Elle bénéficiera à les femmes en situation de précarité grâce à promotion de la santé et maternité. Le programme inclut également sécurité sociale pour atteindre les objectifs. Sur le territoire métropolitain, la priorité est donnée à obésité."
+  },
+  {
+    "id": 174,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de le programme européen, ce programme développe des actions de données personnelles. Il s adresse à les familles monoparentales et propose seniors numériques. Les partenaires locaux s engagent à mettre en oeuvre fracture numérique et dématérialisation. Le suivi intègre des indicateurs sur accès internet et outils informatiques."
+  },
+  {
+    "id": 165,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de la convention territoriale, ce programme développe des actions de données personnelles. Il s adresse à les personnes âgées et propose fracture numérique. Les partenaires locaux s engagent à mettre en oeuvre outils informatiques et e-administration. Le suivi intègre des indicateurs sur compétences numériques et alphabétisation numérique."
+  },
+  {
+    "id": 104,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Cette initiative a pour but de renforcer décarbonation afin de réduire les inégalités. Elle s appuie sur pesticides et cible principalement les travailleurs peu qualifiés. Le dispositif s articule autour de qualité de l air et de zones naturelles protégées. Des actions de véhicules électriques complètent l intervention sur rural."
+  },
+  {
+    "id": 24,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Cette initiative a pour but de renforcer apprentissage afin de réduire les inégalités. Elle s appuie sur certification professionnelle et cible principalement les seniors. Le dispositif s articule autour de reconversion professionnelle et de accompagnement emploi. Des actions de qualification complètent l intervention sur régional."
+  },
+  {
+    "id": 20,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Cette initiative a pour but de renforcer alternance afin de réduire les inégalités. Elle s appuie sur chômage longue durée et cible principalement les femmes en situation de précarité. Le dispositif s articule autour de certification professionnelle et de contrat aidé. Des actions de insertion complètent l intervention sur régional."
+  },
+  {
+    "id": 220,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur résidence sociale en mobilisant mal logement. Elle bénéficiera à les familles monoparentales grâce à rénovation urbaine et logement social. Le programme inclut également mixité sociale pour atteindre les objectifs. Sur le territoire régional, la priorité est donnée à hébergement urgence."
+  },
+  {
+    "id": 97,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de le projet de territoire, ce programme développe des actions de cancer. Il s adresse à les travailleurs peu qualifiés et propose urgences médicales. Les partenaires locaux s engagent à mettre en oeuvre promotion de la santé et accès aux soins. Le suivi intègre des indicateurs sur dépistage et hôpital public."
+  },
+  {
+    "id": 252,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Cette initiative a pour but de renforcer égalité des chances afin de réduire les inégalités. Elle s appuie sur citoyenneté et cible principalement les primo-arrivants. Le dispositif s articule autour de numérique éducatif et de lycée professionnel. Des actions de soutien scolaire complètent l intervention sur périurbain."
+  },
+  {
+    "id": 166,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Le projet vise à développer e-administration en faveur de les femmes en situation de précarité dans le cadre de la politique régionale. Les actions prévues incluent outils informatiques et compétences numériques. L objectif est d améliorer usages numériques sur le territoire régional. Ce dispositif mobilise également automatisation pour renforcer intelligence artificielle."
+  },
+  {
+    "id": 268,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur décrochage scolaire en mobilisant méthodes pédagogiques. Elle bénéficiera à les familles monoparentales grâce à bourses étudiantes et vie associative. Le programme inclut également égalité des chances pour atteindre les objectifs. Sur le territoire urbain, la priorité est donnée à numérique éducatif."
+  },
+  {
+    "id": 37,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer insertion en faveur de les familles monoparentales dans le cadre de le contrat de ville. Les actions prévues incluent formation professionnelle et employabilité. L objectif est d améliorer contrat aidé sur le territoire urbain. Ce dispositif mobilise également chômage longue durée pour renforcer apprentissage."
+  },
+  {
+    "id": 248,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur mixité sociale en mobilisant logement social. Elle bénéficiera à les femmes en situation de précarité grâce à politique de la ville et aide au logement. Le programme inclut également résidence sociale pour atteindre les objectifs. Sur le territoire départemental, la priorité est donnée à allocation logement."
+  },
+  {
+    "id": 101,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Cette initiative a pour but de renforcer solaire afin de réduire les inégalités. Elle s appuie sur écologie et cible principalement les travailleurs peu qualifiés. Le dispositif s articule autour de isolation thermique et de qualité de l air. Des actions de recyclage complètent l intervention sur départemental."
+  },
+  {
+    "id": 186,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de la stratégie nationale, ce programme développe des actions de formation digitale. Il s adresse à les seniors et propose outils informatiques. Les partenaires locaux s engagent à mettre en oeuvre données personnelles et télétravail. Le suivi intègre des indicateurs sur intelligence artificielle et zones blanches."
+  },
+  {
+    "id": 170,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Cette initiative a pour but de renforcer usages numériques afin de réduire les inégalités. Elle s appuie sur automatisation et cible principalement les habitants des zones rurales. Le dispositif s articule autour de dématérialisation et de outils informatiques. Des actions de alphabétisation numérique complètent l intervention sur régional."
+  },
+  {
+    "id": 38,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de reconversion professionnelle. Il s adresse à les personnes en situation de handicap et propose apprentissage. Les partenaires locaux s engagent à mettre en oeuvre certification professionnelle et bilan de compétences. Le suivi intègre des indicateurs sur insertion et dispositif emploi."
+  },
+  {
+    "id": 202,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Cette initiative a pour but de renforcer aide au logement afin de réduire les inégalités. Elle s appuie sur politique de la ville et cible principalement les familles monoparentales. Le dispositif s articule autour de accès au logement et de hébergement urgence. Des actions de résidence sociale complètent l intervention sur départemental."
+  },
+  {
+    "id": 34,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Dans le cadre de le schéma départemental, ce programme développe des actions de employabilité. Il s adresse à les personnes âgées et propose qualification. Les partenaires locaux s engagent à mettre en oeuvre apprentissage et compétences. Le suivi intègre des indicateurs sur demandeurs d emploi et dispositif emploi."
+  },
+  {
+    "id": 33,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Dans le cadre de la convention territoriale, ce programme développe des actions de retour à l emploi. Il s adresse à les habitants des zones rurales et propose demandeurs d emploi. Les partenaires locaux s engagent à mettre en oeuvre compétences et employabilité. Le suivi intègre des indicateurs sur insertion et accompagnement emploi."
+  },
+  {
+    "id": 238,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur mixité sociale en mobilisant HLM. Elle bénéficiera à les adultes en reconversion grâce à mal logement et requalification urbaine. Le programme inclut également sans-abri pour atteindre les objectifs. Sur le territoire régional, la priorité est donnée à accès au logement."
+  },
+  {
+    "id": 178,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur formation digitale en mobilisant fracture numérique. Elle bénéficiera à les jeunes de 16 à 25 ans grâce à seniors numériques et données personnelles. Le programme inclut également compétences numériques pour atteindre les objectifs. Sur le territoire rural, la priorité est donnée à e-administration."
+  },
+  {
+    "id": 106,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "L action porte sur éolien en mobilisant développement durable. Elle bénéficiera à les jeunes de 16 à 25 ans grâce à zones naturelles protégées et économie circulaire. Le programme inclut également qualité de l air pour atteindre les objectifs. Sur le territoire métropolitain, la priorité est donnée à réduction des émissions."
+  },
+  {
+    "id": 35,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer demandeurs d emploi en faveur de les femmes en situation de précarité dans le cadre de la convention territoriale. Les actions prévues incluent formation professionnelle et qualification. L objectif est d améliorer insertion sur le territoire intercommunal. Ce dispositif mobilise également contrat aidé pour renforcer retour à l emploi."
+  },
+  {
+    "id": 25,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer contrat aidé en faveur de les adultes en reconversion dans le cadre de le plan national. Les actions prévues incluent missions locales et compétences. L objectif est d améliorer bilan de compétences sur le territoire urbain. Ce dispositif mobilise également qualification pour renforcer certification professionnelle."
+  },
+  {
+    "id": 132,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Le projet vise à développer agriculture biologique en faveur de les enfants issus de milieux défavorisés dans le cadre de le contrat de ville. Les actions prévues incluent éolien et économie circulaire. L objectif est d améliorer qualité de l air sur le territoire métropolitain. Ce dispositif mobilise également isolation thermique pour renforcer empreinte carbone."
+  },
+  {
+    "id": 221,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer rénovation urbaine en faveur de les enfants issus de milieux défavorisés dans le cadre de le programme européen. Les actions prévues incluent quartiers prioritaires et relogement. L objectif est d améliorer habitat dégradé sur le territoire intercommunal. Ce dispositif mobilise également politique de la ville pour renforcer requalification urbaine."
+  },
+  {
+    "id": 223,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Cette initiative a pour but de renforcer allocation logement afin de réduire les inégalités. Elle s appuie sur politique de la ville et cible principalement les personnes en situation de handicap. Le dispositif s articule autour de expulsion locative et de loyers abordables. Des actions de aide au logement complètent l intervention sur intercommunal."
+  },
+  {
+    "id": 169,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur formation digitale en mobilisant services en ligne. Elle bénéficiera à les habitants des zones rurales grâce à données personnelles et cybersécurité. Le programme inclut également médiation numérique pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à seniors numériques."
+  },
+  {
+    "id": 240,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer expulsion locative en faveur de les femmes en situation de précarité dans le cadre de le projet de territoire. Les actions prévues incluent quartiers prioritaires et habitat dégradé. L objectif est d améliorer rénovation urbaine sur le territoire intercommunal. Ce dispositif mobilise également bail solidaire pour renforcer mal logement."
+  },
+  {
+    "id": 83,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer sécurité sociale en faveur de les habitants des zones rurales dans le cadre de le projet de territoire. Les actions prévues incluent maternité et obésité. L objectif est d améliorer urgences médicales sur le territoire urbain. Ce dispositif mobilise également remboursement des soins pour renforcer déserts médicaux."
+  },
+  {
+    "id": 234,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Cette initiative a pour but de renforcer mal logement afin de réduire les inégalités. Elle s appuie sur allocation logement et cible principalement les jeunes de 16 à 25 ans. Le dispositif s articule autour de hébergement urgence et de requalification urbaine. Des actions de politique de la ville complètent l intervention sur départemental."
+  },
+  {
+    "id": 236,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer mal logement en faveur de les habitants des zones rurales dans le cadre de la stratégie nationale. Les actions prévues incluent hébergement urgence et sans-abri. L objectif est d améliorer habitat dégradé sur le territoire rural. Ce dispositif mobilise également politique de la ville pour renforcer résidence sociale."
+  },
+  {
+    "id": 290,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Cette initiative a pour but de renforcer école inclusive afin de réduire les inégalités. Elle s appuie sur protection enfance et cible principalement les habitants des zones rurales. Le dispositif s articule autour de périscolaire et de soutien scolaire. Des actions de citoyenneté complètent l intervention sur régional."
+  },
+  {
+    "id": 267,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Le projet vise à développer parentalité en faveur de les jeunes de 16 à 25 ans dans le cadre de la stratégie nationale. Les actions prévues incluent service civique et réussite éducative. L objectif est d améliorer périscolaire sur le territoire urbain. Ce dispositif mobilise également citoyenneté pour renforcer lycée professionnel."
+  },
+  {
+    "id": 137,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "L action porte sur recyclage en mobilisant solaire. Elle bénéficiera à les seniors grâce à biodiversité et décarbonation. Le programme inclut également éolien pour atteindre les objectifs. Sur le territoire départemental, la priorité est donnée à réduction des émissions."
+  },
+  {
+    "id": 188,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur télétravail en mobilisant automatisation. Elle bénéficiera à les jeunes de 16 à 25 ans grâce à dématérialisation et données personnelles. Le programme inclut également seniors numériques pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à formation digitale."
+  },
+  {
+    "id": 146,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Cette initiative a pour but de renforcer eau potable afin de réduire les inégalités. Elle s appuie sur économie circulaire et cible principalement les primo-arrivants. Le dispositif s articule autour de empreinte carbone et de solaire. Des actions de décarbonation complètent l intervention sur urbain."
+  },
+  {
+    "id": 16,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer formation professionnelle en faveur de les adultes en reconversion dans le cadre de le contrat de ville. Les actions prévues incluent chômage longue durée et certification professionnelle. L objectif est d améliorer accompagnement emploi sur le territoire départemental. Ce dispositif mobilise également demandeurs d emploi pour renforcer bilan de compétences."
+  },
+  {
+    "id": 180,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Le projet vise à développer intelligence artificielle en faveur de les bénéficiaires du RSA dans le cadre de la convention territoriale. Les actions prévues incluent données personnelles et zones blanches. L objectif est d améliorer usages numériques sur le territoire régional. Ce dispositif mobilise également fracture numérique pour renforcer dématérialisation."
+  },
+  {
+    "id": 53,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur sécurité sociale en mobilisant dépistage. Elle bénéficiera à les adultes en reconversion grâce à promotion de la santé et remboursement des soins. Le programme inclut également urgences médicales pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à médecine de proximité."
+  },
+  {
+    "id": 36,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Dans le cadre de le programme européen, ce programme développe des actions de chômage longue durée. Il s adresse à les habitants des zones rurales et propose apprentissage. Les partenaires locaux s engagent à mettre en oeuvre bilan de compétences et alternance. Le suivi intègre des indicateurs sur retour à l emploi et reconversion professionnelle."
+  },
+  {
+    "id": 158,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Le projet vise à développer compétences numériques en faveur de les personnes âgées dans le cadre de la convention territoriale. Les actions prévues incluent usages numériques et intelligence artificielle. L objectif est d améliorer seniors numériques sur le territoire périurbain. Ce dispositif mobilise également médiation numérique pour renforcer zones blanches."
+  },
+  {
+    "id": 247,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur politique de la ville en mobilisant sans-abri. Elle bénéficiera à les femmes en situation de précarité grâce à expulsion locative et mal logement. Le programme inclut également accès au logement pour atteindre les objectifs. Sur le territoire régional, la priorité est donnée à loyers abordables."
+  },
+  {
+    "id": 110,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de la stratégie nationale, ce programme développe des actions de empreinte carbone. Il s adresse à les bénéficiaires du RSA et propose énergie renouvelable. Les partenaires locaux s engagent à mettre en oeuvre réduction des émissions et zones naturelles protégées. Le suivi intègre des indicateurs sur décarbonation et recyclage."
+  },
+  {
+    "id": 265,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Le projet vise à développer numérique éducatif en faveur de les adultes en reconversion dans le cadre de la politique régionale. Les actions prévues incluent périscolaire et jeunes en difficulté. L objectif est d améliorer réussite éducative sur le territoire départemental. Ce dispositif mobilise également bourses étudiantes pour renforcer décrochage scolaire."
+  },
+  {
+    "id": 284,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur école inclusive en mobilisant jeunes en difficulté. Elle bénéficiera à les seniors grâce à protection enfance et bourses étudiantes. Le programme inclut également orientation scolaire pour atteindre les objectifs. Sur le territoire périurbain, la priorité est donnée à soutien scolaire."
+  },
+  {
+    "id": 269,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de méthodes pédagogiques. Il s adresse à les bénéficiaires du RSA et propose soutien scolaire. Les partenaires locaux s engagent à mettre en oeuvre lycée professionnel et orientation scolaire. Le suivi intègre des indicateurs sur vie associative et bourses étudiantes."
+  },
+  {
+    "id": 228,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Cette initiative a pour but de renforcer résidence sociale afin de réduire les inégalités. Elle s appuie sur mixité sociale et cible principalement les adultes en reconversion. Le dispositif s articule autour de politique de la ville et de HLM. Des actions de allocation logement complètent l intervention sur urbain."
+  },
+  {
+    "id": 177,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur médiation numérique en mobilisant alphabétisation numérique. Elle bénéficiera à les seniors grâce à accès internet et usages numériques. Le programme inclut également services en ligne pour atteindre les objectifs. Sur le territoire départemental, la priorité est donnée à cybersécurité."
+  },
+  {
+    "id": 151,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur données personnelles en mobilisant compétences numériques. Elle bénéficiera à les travailleurs peu qualifiés grâce à automatisation et formation digitale. Le programme inclut également accès internet pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à alphabétisation numérique."
+  },
+  {
+    "id": 205,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer mixité sociale en faveur de les familles monoparentales dans le cadre de le projet de territoire. Les actions prévues incluent bail solidaire et aide au logement. L objectif est d améliorer requalification urbaine sur le territoire métropolitain. Ce dispositif mobilise également HLM pour renforcer expulsion locative."
+  },
+  {
+    "id": 54,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Cette initiative a pour but de renforcer maternité afin de réduire les inégalités. Elle s appuie sur vaccination et cible principalement les adultes en reconversion. Le dispositif s articule autour de déserts médicaux et de sécurité sociale. Des actions de remboursement des soins complètent l intervention sur rural."
+  },
+  {
+    "id": 286,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Cette initiative a pour but de renforcer sport jeunesse afin de réduire les inégalités. Elle s appuie sur citoyenneté et cible principalement les habitants des zones rurales. Le dispositif s articule autour de parentalité et de numérique éducatif. Des actions de orientation scolaire complètent l intervention sur intercommunal."
+  },
+  {
+    "id": 31,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer retour à l emploi en faveur de les femmes en situation de précarité dans le cadre de le plan national. Les actions prévues incluent certification professionnelle et chômage longue durée. L objectif est d améliorer contrat aidé sur le territoire départemental. Ce dispositif mobilise également bilan de compétences pour renforcer demandeurs d emploi."
+  },
+  {
+    "id": 210,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer relogement en faveur de les primo-arrivants dans le cadre de le projet de territoire. Les actions prévues incluent requalification urbaine et habitat dégradé. L objectif est d améliorer aide au logement sur le territoire rural. Ce dispositif mobilise également mixité sociale pour renforcer logement social."
+  },
+  {
+    "id": 23,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Cette initiative a pour but de renforcer retour à l emploi afin de réduire les inégalités. Elle s appuie sur qualification et cible principalement les habitants des zones rurales. Le dispositif s articule autour de dispositif emploi et de formation professionnelle. Des actions de alternance complètent l intervention sur rural."
+  },
+  {
+    "id": 90,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de le plan national, ce programme développe des actions de maladies chroniques. Il s adresse à les personnes âgées et propose déserts médicaux. Les partenaires locaux s engagent à mettre en oeuvre accès aux soins et vaccination. Le suivi intègre des indicateurs sur sécurité sociale et maternité."
+  },
+  {
+    "id": 68,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer médecine de proximité en faveur de les travailleurs peu qualifiés dans le cadre de le programme européen. Les actions prévues incluent déserts médicaux et accès aux soins. L objectif est d améliorer prévention sanitaire sur le territoire rural. Ce dispositif mobilise également pathologies pour renforcer santé mentale."
+  },
+  {
+    "id": 116,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Cette initiative a pour but de renforcer réduction des émissions afin de réduire les inégalités. Elle s appuie sur solaire et cible principalement les travailleurs peu qualifiés. Le dispositif s articule autour de empreinte carbone et de isolation thermique. Des actions de agriculture biologique complètent l intervention sur régional."
+  },
+  {
+    "id": 239,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur mal logement en mobilisant aide au logement. Elle bénéficiera à les familles monoparentales grâce à expulsion locative et mixité sociale. Le programme inclut également résidence sociale pour atteindre les objectifs. Sur le territoire régional, la priorité est donnée à accès au logement."
+  },
+  {
+    "id": 77,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur médecine de proximité en mobilisant promotion de la santé. Elle bénéficiera à les personnes âgées grâce à maternité et pathologies. Le programme inclut également cancer pour atteindre les objectifs. Sur le territoire urbain, la priorité est donnée à remboursement des soins."
+  },
+  {
+    "id": 64,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur promotion de la santé en mobilisant maternité. Elle bénéficiera à les enfants issus de milieux défavorisés grâce à prévention sanitaire et bien-être. Le programme inclut également remboursement des soins pour atteindre les objectifs. Sur le territoire départemental, la priorité est donnée à obésité."
+  },
+  {
+    "id": 193,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur usages numériques en mobilisant intelligence artificielle. Elle bénéficiera à les personnes en situation de handicap grâce à alphabétisation numérique et e-administration. Le programme inclut également outils informatiques pour atteindre les objectifs. Sur le territoire régional, la priorité est donnée à télétravail."
+  },
+  {
+    "id": 168,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur automatisation en mobilisant données personnelles. Elle bénéficiera à les personnes en situation de handicap grâce à seniors numériques et formation digitale. Le programme inclut également médiation numérique pour atteindre les objectifs. Sur le territoire périurbain, la priorité est donnée à e-administration."
+  },
+  {
+    "id": 189,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur automatisation en mobilisant zones blanches. Elle bénéficiera à les bénéficiaires du RSA grâce à accès internet et formation digitale. Le programme inclut également cybersécurité pour atteindre les objectifs. Sur le territoire urbain, la priorité est donnée à outils informatiques."
+  },
+  {
+    "id": 27,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "L action porte sur contrat aidé en mobilisant alternance. Elle bénéficiera à les femmes en situation de précarité grâce à apprentissage et qualification. Le programme inclut également reconversion professionnelle pour atteindre les objectifs. Sur le territoire urbain, la priorité est donnée à retour à l emploi."
+  },
+  {
+    "id": 109,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Le projet vise à développer empreinte carbone en faveur de les personnes âgées dans le cadre de le programme européen. Les actions prévues incluent isolation thermique et biodiversité. L objectif est d améliorer eau potable sur le territoire régional. Ce dispositif mobilise également économie circulaire pour renforcer pesticides."
+  },
+  {
+    "id": 56,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Cette initiative a pour but de renforcer obésité afin de réduire les inégalités. Elle s appuie sur dépistage et cible principalement les adultes en reconversion. Le dispositif s articule autour de bien-être et de maternité. Des actions de cancer complètent l intervention sur départemental."
+  },
+  {
+    "id": 219,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur résidence sociale en mobilisant mixité sociale. Elle bénéficiera à les familles monoparentales grâce à HLM et habitat dégradé. Le programme inclut également accès au logement pour atteindre les objectifs. Sur le territoire urbain, la priorité est donnée à loyers abordables."
+  },
+  {
+    "id": 113,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de énergie renouvelable. Il s adresse à les travailleurs peu qualifiés et propose qualité de l air. Les partenaires locaux s engagent à mettre en oeuvre empreinte carbone et mobilité durable. Le suivi intègre des indicateurs sur biodiversité et isolation thermique."
+  },
+  {
+    "id": 185,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur alphabétisation numérique en mobilisant données personnelles. Elle bénéficiera à les primo-arrivants grâce à automatisation et télétravail. Le programme inclut également services en ligne pour atteindre les objectifs. Sur le territoire rural, la priorité est donnée à usages numériques."
+  },
+  {
+    "id": 242,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur allocation logement en mobilisant relogement. Elle bénéficiera à les seniors grâce à requalification urbaine et mal logement. Le programme inclut également résidence sociale pour atteindre les objectifs. Sur le territoire départemental, la priorité est donnée à habitat dégradé."
+  },
+  {
+    "id": 11,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "L action porte sur employabilité en mobilisant compétences. Elle bénéficiera à les familles monoparentales grâce à dispositif emploi et qualification. Le programme inclut également certification professionnelle pour atteindre les objectifs. Sur le territoire rural, la priorité est donnée à bilan de compétences."
+  },
+  {
+    "id": 194,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur formation digitale en mobilisant services en ligne. Elle bénéficiera à les familles monoparentales grâce à alphabétisation numérique et compétences numériques. Le programme inclut également automatisation pour atteindre les objectifs. Sur le territoire urbain, la priorité est donnée à accès internet."
+  },
+  {
+    "id": 218,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer allocation logement en faveur de les travailleurs peu qualifiés dans le cadre de le projet de territoire. Les actions prévues incluent mal logement et quartiers prioritaires. L objectif est d améliorer aide au logement sur le territoire périurbain. Ce dispositif mobilise également bail solidaire pour renforcer expulsion locative."
+  },
+  {
+    "id": 139,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Cette initiative a pour but de renforcer réduction des émissions afin de réduire les inégalités. Elle s appuie sur empreinte carbone et cible principalement les familles monoparentales. Le dispositif s articule autour de développement durable et de agriculture biologique. Des actions de économie circulaire complètent l intervention sur rural."
+  },
+  {
+    "id": 282,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Le projet vise à développer citoyenneté en faveur de les enfants issus de milieux défavorisés dans le cadre de la convention territoriale. Les actions prévues incluent sport jeunesse et décrochage scolaire. L objectif est d améliorer vie associative sur le territoire intercommunal. Ce dispositif mobilise également orientation scolaire pour renforcer parentalité."
+  },
+  {
+    "id": 211,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur rénovation urbaine en mobilisant expulsion locative. Elle bénéficiera à les habitants des zones rurales grâce à HLM et relogement. Le programme inclut également sans-abri pour atteindre les objectifs. Sur le territoire départemental, la priorité est donnée à mixité sociale."
+  },
+  {
+    "id": 140,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de la convention territoriale, ce programme développe des actions de économie circulaire. Il s adresse à les travailleurs peu qualifiés et propose agriculture biologique. Les partenaires locaux s engagent à mettre en oeuvre décarbonation et développement durable. Le suivi intègre des indicateurs sur écologie et pesticides."
+  },
+  {
+    "id": 278,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de le plan national, ce programme développe des actions de sport jeunesse. Il s adresse à les personnes en situation de handicap et propose protection enfance. Les partenaires locaux s engagent à mettre en oeuvre jeunes en difficulté et égalité des chances. Le suivi intègre des indicateurs sur réussite éducative et périscolaire."
+  },
+  {
+    "id": 288,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur lycée professionnel en mobilisant citoyenneté. Elle bénéficiera à les bénéficiaires du RSA grâce à sport jeunesse et bourses étudiantes. Le programme inclut également protection enfance pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à méthodes pédagogiques."
+  },
+  {
+    "id": 30,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer certification professionnelle en faveur de les enfants issus de milieux défavorisés dans le cadre de le schéma départemental. Les actions prévues incluent apprentissage et reconversion professionnelle. L objectif est d améliorer dispositif emploi sur le territoire urbain. Ce dispositif mobilise également bilan de compétences pour renforcer formation professionnelle."
+  },
+  {
+    "id": 147,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de la politique régionale, ce programme développe des actions de véhicules électriques. Il s adresse à les seniors et propose empreinte carbone. Les partenaires locaux s engagent à mettre en oeuvre écologie et recyclage. Le suivi intègre des indicateurs sur rénovation énergétique et éolien."
+  },
+  {
+    "id": 29,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de accompagnement emploi. Il s adresse à les personnes âgées et propose retour à l emploi. Les partenaires locaux s engagent à mettre en oeuvre demandeurs d emploi et compétences. Le suivi intègre des indicateurs sur formation professionnelle et contrat aidé."
+  },
+  {
+    "id": 131,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Le projet vise à développer réduction des émissions en faveur de les personnes âgées dans le cadre de le projet de territoire. Les actions prévues incluent recyclage et eau potable. L objectif est d améliorer éolien sur le territoire départemental. Ce dispositif mobilise également économie circulaire pour renforcer agriculture biologique."
+  },
+  {
+    "id": 141,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Cette initiative a pour but de renforcer eau potable afin de réduire les inégalités. Elle s appuie sur décarbonation et cible principalement les habitants des zones rurales. Le dispositif s articule autour de développement durable et de énergie renouvelable. Des actions de rénovation énergétique complètent l intervention sur périurbain."
+  },
+  {
+    "id": 127,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de le programme européen, ce programme développe des actions de qualité de l air. Il s adresse à les personnes en situation de handicap et propose biodiversité. Les partenaires locaux s engagent à mettre en oeuvre véhicules électriques et énergie renouvelable. Le suivi intègre des indicateurs sur réduction des émissions et pesticides."
+  },
+  {
+    "id": 257,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Le projet vise à développer orientation scolaire en faveur de les seniors dans le cadre de la convention territoriale. Les actions prévues incluent réussite éducative et bourses étudiantes. L objectif est d améliorer sport jeunesse sur le territoire départemental. Ce dispositif mobilise également citoyenneté pour renforcer vie associative."
+  },
+  {
+    "id": 198,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Le projet vise à développer formation digitale en faveur de les familles monoparentales dans le cadre de le schéma départemental. Les actions prévues incluent usages numériques et automatisation. L objectif est d améliorer intelligence artificielle sur le territoire régional. Ce dispositif mobilise également services en ligne pour renforcer médiation numérique."
+  },
+  {
+    "id": 191,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Le projet vise à développer accès internet en faveur de les travailleurs peu qualifiés dans le cadre de le programme européen. Les actions prévues incluent e-administration et télétravail. L objectif est d améliorer dématérialisation sur le territoire intercommunal. Ce dispositif mobilise également formation digitale pour renforcer seniors numériques."
+  },
+  {
+    "id": 245,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur quartiers prioritaires en mobilisant expulsion locative. Elle bénéficiera à les jeunes de 16 à 25 ans grâce à accès au logement et HLM. Le programme inclut également requalification urbaine pour atteindre les objectifs. Sur le territoire métropolitain, la priorité est donnée à habitat dégradé."
+  },
+  {
+    "id": 118,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de empreinte carbone. Il s adresse à les femmes en situation de précarité et propose zones naturelles protégées. Les partenaires locaux s engagent à mettre en oeuvre eau potable et mobilité durable. Le suivi intègre des indicateurs sur véhicules électriques et biodiversité."
+  },
+  {
+    "id": 200,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Cette initiative a pour but de renforcer e-administration afin de réduire les inégalités. Elle s appuie sur automatisation et cible principalement les habitants des zones rurales. Le dispositif s articule autour de accès internet et de usages numériques. Des actions de formation digitale complètent l intervention sur rural."
+  },
+  {
+    "id": 289,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Cette initiative a pour but de renforcer orientation scolaire afin de réduire les inégalités. Elle s appuie sur numérique éducatif et cible principalement les personnes âgées. Le dispositif s articule autour de jeunes en difficulté et de décrochage scolaire. Des actions de service civique complètent l intervention sur départemental."
+  },
+  {
+    "id": 74,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer promotion de la santé en faveur de les habitants des zones rurales dans le cadre de le projet de territoire. Les actions prévues incluent obésité et hôpital public. L objectif est d améliorer remboursement des soins sur le territoire rural. Ce dispositif mobilise également médecine de proximité pour renforcer pathologies."
+  },
+  {
+    "id": 138,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de la stratégie nationale, ce programme développe des actions de recyclage. Il s adresse à les adultes en reconversion et propose décarbonation. Les partenaires locaux s engagent à mettre en oeuvre réduction des émissions et zones naturelles protégées. Le suivi intègre des indicateurs sur économie circulaire et véhicules électriques."
+  },
+  {
+    "id": 58,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur urgences médicales en mobilisant diabète. Elle bénéficiera à les femmes en situation de précarité grâce à cancer et remboursement des soins. Le programme inclut également pathologies pour atteindre les objectifs. Sur le territoire rural, la priorité est donnée à sécurité sociale."
+  },
+  {
+    "id": 276,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Cette initiative a pour but de renforcer école inclusive afin de réduire les inégalités. Elle s appuie sur méthodes pédagogiques et cible principalement les seniors. Le dispositif s articule autour de service civique et de réussite éducative. Des actions de périscolaire complètent l intervention sur intercommunal."
+  },
+  {
+    "id": 9,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Cette initiative a pour but de renforcer qualification afin de réduire les inégalités. Elle s appuie sur alternance et cible principalement les adultes en reconversion. Le dispositif s articule autour de dispositif emploi et de compétences. Des actions de apprentissage complètent l intervention sur départemental."
+  },
+  {
+    "id": 75,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de le projet de territoire, ce programme développe des actions de urgences médicales. Il s adresse à les familles monoparentales et propose obésité. Les partenaires locaux s engagent à mettre en oeuvre bien-être et remboursement des soins. Le suivi intègre des indicateurs sur prévention sanitaire et médecine de proximité."
+  },
+  {
+    "id": 57,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Cette initiative a pour but de renforcer santé mentale afin de réduire les inégalités. Elle s appuie sur promotion de la santé et cible principalement les seniors. Le dispositif s articule autour de médecine de proximité et de vaccination. Des actions de urgences médicales complètent l intervention sur rural."
+  },
+  {
+    "id": 195,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de le programme européen, ce programme développe des actions de cybersécurité. Il s adresse à les familles monoparentales et propose données personnelles. Les partenaires locaux s engagent à mettre en oeuvre compétences numériques et zones blanches. Le suivi intègre des indicateurs sur télétravail et e-administration."
+  },
+  {
+    "id": 204,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de résidence sociale. Il s adresse à les adultes en reconversion et propose quartiers prioritaires. Les partenaires locaux s engagent à mettre en oeuvre logement social et habitat dégradé. Le suivi intègre des indicateurs sur requalification urbaine et allocation logement."
+  },
+  {
+    "id": 8,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer missions locales en faveur de les travailleurs peu qualifiés dans le cadre de le programme européen. Les actions prévues incluent dispositif emploi et reconversion professionnelle. L objectif est d améliorer employabilité sur le territoire intercommunal. Ce dispositif mobilise également apprentissage pour renforcer certification professionnelle."
+  },
+  {
+    "id": 145,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Cette initiative a pour but de renforcer qualité de l air afin de réduire les inégalités. Elle s appuie sur eau potable et cible principalement les femmes en situation de précarité. Le dispositif s articule autour de solaire et de écologie. Des actions de développement durable complètent l intervention sur périurbain."
+  },
+  {
+    "id": 22,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Cette initiative a pour but de renforcer demandeurs d emploi afin de réduire les inégalités. Elle s appuie sur employabilité et cible principalement les jeunes de 16 à 25 ans. Le dispositif s articule autour de formation professionnelle et de insertion. Des actions de chômage longue durée complètent l intervention sur régional."
+  },
+  {
+    "id": 43,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Cette initiative a pour but de renforcer reconversion professionnelle afin de réduire les inégalités. Elle s appuie sur missions locales et cible principalement les personnes en situation de handicap. Le dispositif s articule autour de accompagnement emploi et de chômage longue durée. Des actions de compétences complètent l intervention sur départemental."
+  },
+  {
+    "id": 253,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Le projet vise à développer réussite éducative en faveur de les bénéficiaires du RSA dans le cadre de la stratégie nationale. Les actions prévues incluent numérique éducatif et jeunes en difficulté. L objectif est d améliorer protection enfance sur le territoire départemental. Ce dispositif mobilise également bourses étudiantes pour renforcer lycée professionnel."
+  },
+  {
+    "id": 114,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "L action porte sur eau potable en mobilisant rénovation énergétique. Elle bénéficiera à les seniors grâce à qualité de l air et empreinte carbone. Le programme inclut également véhicules électriques pour atteindre les objectifs. Sur le territoire métropolitain, la priorité est donnée à solaire."
+  },
+  {
+    "id": 216,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Cette initiative a pour but de renforcer allocation logement afin de réduire les inégalités. Elle s appuie sur habitat dégradé et cible principalement les bénéficiaires du RSA. Le dispositif s articule autour de relogement et de requalification urbaine. Des actions de accès au logement complètent l intervention sur rural."
+  },
+  {
+    "id": 182,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur télétravail en mobilisant formation digitale. Elle bénéficiera à les jeunes de 16 à 25 ans grâce à dématérialisation et intelligence artificielle. Le programme inclut également compétences numériques pour atteindre les objectifs. Sur le territoire rural, la priorité est donnée à accès internet."
+  },
+  {
+    "id": 107,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "L action porte sur recyclage en mobilisant biodiversité. Elle bénéficiera à les adultes en reconversion grâce à solaire et rénovation énergétique. Le programme inclut également zones naturelles protégées pour atteindre les objectifs. Sur le territoire départemental, la priorité est donnée à empreinte carbone."
+  },
+  {
+    "id": 126,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "L action porte sur isolation thermique en mobilisant agriculture biologique. Elle bénéficiera à les habitants des zones rurales grâce à économie circulaire et développement durable. Le programme inclut également éolien pour atteindre les objectifs. Sur le territoire urbain, la priorité est donnée à énergie renouvelable."
+  },
+  {
+    "id": 176,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "L action porte sur fracture numérique en mobilisant zones blanches. Elle bénéficiera à les seniors grâce à services en ligne et automatisation. Le programme inclut également compétences numériques pour atteindre les objectifs. Sur le territoire rural, la priorité est donnée à usages numériques."
+  },
+  {
+    "id": 105,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Cette initiative a pour but de renforcer eau potable afin de réduire les inégalités. Elle s appuie sur réduction des émissions et cible principalement les personnes âgées. Le dispositif s articule autour de zones naturelles protégées et de solaire. Des actions de pesticides complètent l intervention sur rural."
+  },
+  {
+    "id": 254,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur méthodes pédagogiques en mobilisant citoyenneté. Elle bénéficiera à les familles monoparentales grâce à protection enfance et égalité des chances. Le programme inclut également école inclusive pour atteindre les objectifs. Sur le territoire rural, la priorité est donnée à soutien scolaire."
+  },
+  {
+    "id": 275,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Dans le cadre de le programme européen, ce programme développe des actions de vie associative. Il s adresse à les primo-arrivants et propose jeunes en difficulté. Les partenaires locaux s engagent à mettre en oeuvre lycée professionnel et sport jeunesse. Le suivi intègre des indicateurs sur citoyenneté et bourses étudiantes."
+  },
+  {
+    "id": 100,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de santé mentale. Il s adresse à les femmes en situation de précarité et propose urgences médicales. Les partenaires locaux s engagent à mettre en oeuvre pathologies et maladies chroniques. Le suivi intègre des indicateurs sur maternité et obésité."
+  },
+  {
+    "id": 70,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer pathologies en faveur de les habitants des zones rurales dans le cadre de la stratégie nationale. Les actions prévues incluent santé mentale et vaccination. L objectif est d améliorer sécurité sociale sur le territoire métropolitain. Ce dispositif mobilise également obésité pour renforcer diabète."
+  },
+  {
+    "id": 249,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Cette initiative a pour but de renforcer mixité sociale afin de réduire les inégalités. Elle s appuie sur résidence sociale et cible principalement les enfants issus de milieux défavorisés. Le dispositif s articule autour de requalification urbaine et de expulsion locative. Des actions de accès au logement complètent l intervention sur urbain."
+  },
+  {
+    "id": 5,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "Le projet vise à développer missions locales en faveur de les primo-arrivants dans le cadre de le plan national. Les actions prévues incluent chômage longue durée et accompagnement emploi. L objectif est d améliorer formation professionnelle sur le territoire intercommunal. Ce dispositif mobilise également dispositif emploi pour renforcer qualification."
+  },
+  {
+    "id": 184,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Le projet vise à développer accès internet en faveur de les adultes en reconversion dans le cadre de le schéma départemental. Les actions prévues incluent services en ligne et médiation numérique. L objectif est d améliorer dématérialisation sur le territoire périurbain. Ce dispositif mobilise également automatisation pour renforcer intelligence artificielle."
+  },
+  {
+    "id": 28,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "L action porte sur formation professionnelle en mobilisant demandeurs d emploi. Elle bénéficiera à les personnes âgées grâce à bilan de compétences et accompagnement emploi. Le programme inclut également reconversion professionnelle pour atteindre les objectifs. Sur le territoire rural, la priorité est donnée à certification professionnelle."
+  },
+  {
+    "id": 231,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "L action porte sur HLM en mobilisant hébergement urgence. Elle bénéficiera à les personnes âgées grâce à quartiers prioritaires et politique de la ville. Le programme inclut également requalification urbaine pour atteindre les objectifs. Sur le territoire régional, la priorité est donnée à logement social."
+  },
+  {
+    "id": 162,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Cette initiative a pour but de renforcer outils informatiques afin de réduire les inégalités. Elle s appuie sur intelligence artificielle et cible principalement les bénéficiaires du RSA. Le dispositif s articule autour de médiation numérique et de e-administration. Des actions de données personnelles complètent l intervention sur intercommunal."
+  },
+  {
+    "id": 273,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Le projet vise à développer réussite éducative en faveur de les adultes en reconversion dans le cadre de le contrat de ville. Les actions prévues incluent lycée professionnel et orientation scolaire. L objectif est d améliorer périscolaire sur le territoire intercommunal. Ce dispositif mobilise également soutien scolaire pour renforcer décrochage scolaire."
+  },
+  {
+    "id": 72,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur cancer en mobilisant promotion de la santé. Elle bénéficiera à les personnes âgées grâce à épidémiologie et déserts médicaux. Le programme inclut également remboursement des soins pour atteindre les objectifs. Sur le territoire métropolitain, la priorité est donnée à prévention sanitaire."
+  },
+  {
+    "id": 148,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "Dans le cadre de la stratégie nationale, ce programme développe des actions de eau potable. Il s adresse à les seniors et propose mobilité durable. Les partenaires locaux s engagent à mettre en oeuvre recyclage et pesticides. Le suivi intègre des indicateurs sur isolation thermique et rénovation énergétique."
+  },
+  {
+    "id": 300,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur école inclusive en mobilisant inégalités scolaires. Elle bénéficiera à les seniors grâce à jeunes en difficulté et service civique. Le programme inclut également méthodes pédagogiques pour atteindre les objectifs. Sur le territoire régional, la priorité est donnée à numérique éducatif."
+  },
+  {
+    "id": 86,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Cette initiative a pour but de renforcer obésité afin de réduire les inégalités. Elle s appuie sur promotion de la santé et cible principalement les adultes en reconversion. Le dispositif s articule autour de sécurité sociale et de accès aux soins. Des actions de santé mentale complètent l intervention sur périurbain."
+  },
+  {
+    "id": 291,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur protection enfance en mobilisant sport jeunesse. Elle bénéficiera à les femmes en situation de précarité grâce à école inclusive et parentalité. Le programme inclut également vie associative pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à lycée professionnel."
+  },
+  {
+    "id": 250,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer quartiers prioritaires en faveur de les personnes âgées dans le cadre de la politique régionale. Les actions prévues incluent logement social et mixité sociale. L objectif est d améliorer rénovation urbaine sur le territoire rural. Ce dispositif mobilise également HLM pour renforcer requalification urbaine."
+  },
+  {
+    "id": 96,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur déserts médicaux en mobilisant remboursement des soins. Elle bénéficiera à les femmes en situation de précarité grâce à hôpital public et obésité. Le programme inclut également santé mentale pour atteindre les objectifs. Sur le territoire régional, la priorité est donnée à bien-être."
+  },
+  {
+    "id": 217,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Dans le cadre de la politique régionale, ce programme développe des actions de bail solidaire. Il s adresse à les personnes âgées et propose aide au logement. Les partenaires locaux s engagent à mettre en oeuvre allocation logement et habitat dégradé. Le suivi intègre des indicateurs sur expulsion locative et politique de la ville."
+  },
+  {
+    "id": 197,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Le projet vise à développer données personnelles en faveur de les seniors dans le cadre de le contrat de ville. Les actions prévues incluent outils informatiques et télétravail. L objectif est d améliorer intelligence artificielle sur le territoire métropolitain. Ce dispositif mobilise également zones blanches pour renforcer compétences numériques."
+  },
+  {
+    "id": 71,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Le projet vise à développer dépistage en faveur de les travailleurs peu qualifiés dans le cadre de la politique régionale. Les actions prévues incluent déserts médicaux et médecine de proximité. L objectif est d améliorer santé mentale sur le territoire périurbain. Ce dispositif mobilise également sécurité sociale pour renforcer promotion de la santé."
+  },
+  {
+    "id": 215,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Le projet vise à développer sans-abri en faveur de les jeunes de 16 à 25 ans dans le cadre de le programme européen. Les actions prévues incluent rénovation urbaine et relogement. L objectif est d améliorer bail solidaire sur le territoire régional. Ce dispositif mobilise également loyers abordables pour renforcer logement social."
+  },
+  {
+    "id": 297,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Cette initiative a pour but de renforcer citoyenneté afin de réduire les inégalités. Elle s appuie sur inégalités scolaires et cible principalement les bénéficiaires du RSA. Le dispositif s articule autour de jeunes en difficulté et de lycée professionnel. Des actions de bourses étudiantes complètent l intervention sur métropolitain."
+  },
+  {
+    "id": 262,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Le projet vise à développer citoyenneté en faveur de les habitants des zones rurales dans le cadre de la stratégie nationale. Les actions prévues incluent protection enfance et réussite éducative. L objectif est d améliorer lycée professionnel sur le territoire périurbain. Ce dispositif mobilise également service civique pour renforcer école inclusive."
+  },
+  {
+    "id": 73,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de le projet de territoire, ce programme développe des actions de épidémiologie. Il s adresse à les travailleurs peu qualifiés et propose urgences médicales. Les partenaires locaux s engagent à mettre en oeuvre maladies chroniques et promotion de la santé. Le suivi intègre des indicateurs sur vaccination et pathologies."
+  },
+  {
+    "id": 192,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Le projet vise à développer données personnelles en faveur de les jeunes de 16 à 25 ans dans le cadre de le programme européen. Les actions prévues incluent intelligence artificielle et cybersécurité. L objectif est d améliorer formation digitale sur le territoire métropolitain. Ce dispositif mobilise également e-administration pour renforcer alphabétisation numérique."
+  },
+  {
+    "id": 94,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de le plan national, ce programme développe des actions de maternité. Il s adresse à les adultes en reconversion et propose déserts médicaux. Les partenaires locaux s engagent à mettre en oeuvre pathologies et épidémiologie. Le suivi intègre des indicateurs sur promotion de la santé et vaccination."
+  },
+  {
+    "id": 60,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de le plan national, ce programme développe des actions de urgences médicales. Il s adresse à les femmes en situation de précarité et propose déserts médicaux. Les partenaires locaux s engagent à mettre en oeuvre sécurité sociale et médecine de proximité. Le suivi intègre des indicateurs sur hôpital public et vaccination."
+  },
+  {
+    "id": 157,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Le projet vise à développer usages numériques en faveur de les bénéficiaires du RSA dans le cadre de le contrat de ville. Les actions prévues incluent compétences numériques et médiation numérique. L objectif est d améliorer seniors numériques sur le territoire urbain. Ce dispositif mobilise également télétravail pour renforcer fracture numérique."
+  },
+  {
+    "id": 123,
+    "theme": "transition_ecologique",
+    "label": "Transition écologique",
+    "text": "L action porte sur eau potable en mobilisant économie circulaire. Elle bénéficiera à les seniors grâce à recyclage et réduction des émissions. Le programme inclut également éolien pour atteindre les objectifs. Sur le territoire rural, la priorité est donnée à décarbonation."
+  },
+  {
+    "id": 61,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur maladies chroniques en mobilisant médecine de proximité. Elle bénéficiera à les primo-arrivants grâce à bien-être et pathologies. Le programme inclut également dépistage pour atteindre les objectifs. Sur le territoire intercommunal, la priorité est donnée à accès aux soins."
+  },
+  {
+    "id": 298,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur lycée professionnel en mobilisant sport jeunesse. Elle bénéficiera à les primo-arrivants grâce à jeunes en difficulté et méthodes pédagogiques. Le programme inclut également citoyenneté pour atteindre les objectifs. Sur le territoire régional, la priorité est donnée à parentalité."
+  },
+  {
+    "id": 69,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Dans le cadre de le programme européen, ce programme développe des actions de maladies chroniques. Il s adresse à les bénéficiaires du RSA et propose maternité. Les partenaires locaux s engagent à mettre en oeuvre santé mentale et dépistage. Le suivi intègre des indicateurs sur urgences médicales et épidémiologie."
+  },
+  {
+    "id": 44,
+    "theme": "insertion_professionnelle",
+    "label": "Insertion professionnelle",
+    "text": "L action porte sur alternance en mobilisant contrat aidé. Elle bénéficiera à les adultes en reconversion grâce à formation professionnelle et demandeurs d emploi. Le programme inclut également missions locales pour atteindre les objectifs. Sur le territoire périurbain, la priorité est donnée à dispositif emploi."
+  },
+  {
+    "id": 153,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de le programme européen, ce programme développe des actions de alphabétisation numérique. Il s adresse à les enfants issus de milieux défavorisés et propose usages numériques. Les partenaires locaux s engagent à mettre en oeuvre services en ligne et télétravail. Le suivi intègre des indicateurs sur intelligence artificielle et dématérialisation."
+  },
+  {
+    "id": 89,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "Cette initiative a pour but de renforcer médecine de proximité afin de réduire les inégalités. Elle s appuie sur hôpital public et cible principalement les adultes en reconversion. Le dispositif s articule autour de dépistage et de promotion de la santé. Des actions de santé mentale complètent l intervention sur périurbain."
+  },
+  {
+    "id": 235,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Dans le cadre de la stratégie nationale, ce programme développe des actions de aide au logement. Il s adresse à les seniors et propose rénovation urbaine. Les partenaires locaux s engagent à mettre en oeuvre hébergement urgence et bail solidaire. Le suivi intègre des indicateurs sur quartiers prioritaires et politique de la ville."
+  },
+  {
+    "id": 181,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de le programme européen, ce programme développe des actions de alphabétisation numérique. Il s adresse à les adultes en reconversion et propose cybersécurité. Les partenaires locaux s engagent à mettre en oeuvre e-administration et fracture numérique. Le suivi intègre des indicateurs sur dématérialisation et zones blanches."
+  },
+  {
+    "id": 179,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Le projet vise à développer automatisation en faveur de les primo-arrivants dans le cadre de le projet de territoire. Les actions prévues incluent dématérialisation et compétences numériques. L objectif est d améliorer zones blanches sur le territoire urbain. Ce dispositif mobilise également usages numériques pour renforcer accès internet."
+  },
+  {
+    "id": 59,
+    "theme": "sante_publique",
+    "label": "Santé publique",
+    "text": "L action porte sur maternité en mobilisant urgences médicales. Elle bénéficiera à les adultes en reconversion grâce à hôpital public et médecine de proximité. Le programme inclut également cancer pour atteindre les objectifs. Sur le territoire périurbain, la priorité est donnée à bien-être."
+  },
+  {
+    "id": 201,
+    "theme": "logement_social",
+    "label": "Logement social",
+    "text": "Dans le cadre de le contrat de ville, ce programme développe des actions de allocation logement. Il s adresse à les personnes en situation de handicap et propose mixité sociale. Les partenaires locaux s engagent à mettre en oeuvre expulsion locative et aide au logement. Le suivi intègre des indicateurs sur quartiers prioritaires et HLM."
+  },
+  {
+    "id": 199,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Cette initiative a pour but de renforcer compétences numériques afin de réduire les inégalités. Elle s appuie sur télétravail et cible principalement les femmes en situation de précarité. Le dispositif s articule autour de usages numériques et de cybersécurité. Des actions de zones blanches complètent l intervention sur départemental."
+  },
+  {
+    "id": 161,
+    "theme": "inclusion_numerique",
+    "label": "Inclusion numérique",
+    "text": "Dans le cadre de le schéma départemental, ce programme développe des actions de intelligence artificielle. Il s adresse à les seniors et propose automatisation. Les partenaires locaux s engagent à mettre en oeuvre cybersécurité et formation digitale. Le suivi intègre des indicateurs sur médiation numérique et fracture numérique."
+  },
+  {
+    "id": 271,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "L action porte sur école inclusive en mobilisant réussite éducative. Elle bénéficiera à les jeunes de 16 à 25 ans grâce à égalité des chances et sport jeunesse. Le programme inclut également orientation scolaire pour atteindre les objectifs. Sur le territoire régional, la priorité est donnée à parentalité."
+  },
+  {
+    "id": 251,
+    "theme": "education_jeunesse",
+    "label": "Éducation et jeunesse",
+    "text": "Le projet vise à développer réussite éducative en faveur de les familles monoparentales dans le cadre de le contrat de ville. Les actions prévues incluent sport jeunesse et parentalité. L objectif est d améliorer lycée professionnel sur le territoire rural. Ce dispositif mobilise également bourses étudiantes pour renforcer inégalités scolaires."
+  }
+]
