@@ -91,6 +91,15 @@ Vectorisation TF-IDF (max 5000 features, n-grammes 1-2)
 
 ---
 
+
+## Lancer le dashboard Streamlit
+
+```bash
+streamlit run app.py
+```
+
+Le dashboard s'ouvre sur `http://localhost:8501`
+
 ## Installation & lancement
 
 ```bash
